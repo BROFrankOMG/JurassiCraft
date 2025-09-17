@@ -287,3 +287,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [17Sep2025 17:53:26.051] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
 [17Sep2025 17:56:31.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
 [17Sep2025 17:56:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 18:03:28.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['lightigivhi'/3795, l='ServerLevel[world]', x=119.66, y=11.00, z=886.89] died: lightigivhi was shot by lightigivhi
+[17Sep2025 18:13:35.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:45651] logged in with entity id 8471 at (103.94793610067299, 106.0, 964.6343443700041)
+[17Sep2025 18:13:35.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[17Sep2025 18:13:35.190] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[17Sep2025 18:13:35.319] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[17Sep2025 18:13:35.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 18:13:35.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
