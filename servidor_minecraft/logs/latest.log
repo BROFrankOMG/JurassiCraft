@@ -294,3 +294,90 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [17Sep2025 18:13:35.319] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
 [17Sep2025 18:13:35.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
 [17Sep2025 18:13:35.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 18:24:06.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was doomed to fall by Spitter
+[17Sep2025 18:24:06.292] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_17.09.2025-18.24.06.dat
+[17Sep2025 18:24:06.293] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 111 Y: 73.0 Z: 936
+[17Sep2025 18:24:06.294] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 958c96fd-09b4-44ed-b8f5-cb57d035585b
+[17Sep2025 18:24:08.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/387, l='ServerLevel[world]', x=98.55, y=106.00, z=980.51] died, message: 'Unemployed was slain by Zombie'
+[17Sep2025 18:24:13.156] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 18:24:13.156] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 18:24:17.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/388, l='ServerLevel[world]', x=99.58, y=106.00, z=981.79] died, message: 'Unemployed was slain by Zombie'
+[17Sep2025 18:24:25.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/389, l='ServerLevel[world]', x=97.42, y=106.00, z=980.43] died, message: 'Unemployed was slain by Zombie'
+[17Sep2025 18:24:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 18:24:34.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/386, l='ServerLevel[world]', x=97.62, y=106.00, z=982.42] died, message: 'Unemployed was slain by Zombie'
+[17Sep2025 18:24:54.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Pregnant Woman Coming Through]
+[17Sep2025 18:25:59.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 18:26:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 18:26:23.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 18:27:03.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 fell from a high place
+[17Sep2025 18:27:03.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-18.27.03.dat
+[17Sep2025 18:27:03.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 112 Y: 71.0 Z: 943
+[17Sep2025 18:27:03.878] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 3985bbd7-0a40-4458-89fe-976bb1e3d870
+[17Sep2025 18:27:05.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 18:27:05.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 18:27:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[17Sep2025 18:27:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 18:27:49.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 18:28:11.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Go Back to Canada]
+[17Sep2025 18:28:17.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Not Today, Thank You]
+[17Sep2025 18:28:18.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved too quickly! -0.08931680458118763,-11.585216150668302,-0.08539731493669933
+[17Sep2025 18:28:18.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was doomed to fall by Axtwerfer
+[17Sep2025 18:28:18.668] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_17.09.2025-18.28.18.dat
+[17Sep2025 18:28:18.668] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 107 Y: 73.0 Z: 939
+[17Sep2025 18:28:18.668] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 20cf37bf-dc93-4730-9f1d-efe17c076239
+[17Sep2025 18:28:18.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 moved wrongly!
+[17Sep2025 18:28:20.911] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 18:28:20.911] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 18:28:31.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 18:28:52.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 18:28:54.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 18:29:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was doomed to fall by Phayres
+[17Sep2025 18:29:10.399] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 8e1fdadd-4c13-4e10-a52c-38d8db197dd2
+[17Sep2025 18:29:11.805] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 18:29:11.805] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 18:29:15.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 18:29:28.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[17Sep2025 18:29:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 18:35:05.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
+[17Sep2025 18:35:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 left the game
+[17Sep2025 18:35:05.261] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was unloaded
+[17Sep2025 18:38:14.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16c52809[id=<null>,name=Sahankiel071727,properties={},legacy=false] (/127.189.196.10:38369) lost connection: Disconnected
+[17Sep2025 18:38:57.649] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a1fff30[id=<null>,name=Sahankiel071727,properties={},legacy=false] (/127.189.196.10:48373) lost connection: Disconnected
+[17Sep2025 18:39:12.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:40271] logged in with entity id 18575 at (108.16455366118257, 106.0, 955.1592272275595)
+[17Sep2025 18:39:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
+[17Sep2025 18:39:12.982] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
+[17Sep2025 18:39:13.201] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
+[17Sep2025 18:39:13.201] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 18:39:13.201] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 18:53:01.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was fungi-fied by Infected Enderman
+[17Sep2025 18:53:01.250] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_17.09.2025-18.53.01.dat
+[17Sep2025 18:53:01.250] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -89 Y: 11.753199980521202 Z: 915
+[17Sep2025 18:53:01.250] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 40f49c19-52e3-44c9-8e5e-abc7a8bfd861
+[17Sep2025 18:53:03.302] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 18:53:03.303] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 18:53:18.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
+[17Sep2025 18:53:47.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/24834, l='ServerLevel[world]', x=-92.35, y=7.00, z=894.24] died: Sahankiel071727 was shot by Frank3033
+[17Sep2025 18:54:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Meet the Spy]
+[17Sep2025 18:54:09.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Sahankiel071727 to Frank3033]
+[17Sep2025 18:55:06.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by Infected Wandering Trader
+[17Sep2025 18:55:06.557] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-18.55.06.dat
+[17Sep2025 18:55:06.557] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -100 Y: 7.7543609709995405 Z: 894
+[17Sep2025 18:55:06.557] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 4ced1b75-f94c-454a-8c36-5139ae00cdaf
+[17Sep2025 18:55:08.143] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 18:55:08.143] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 18:55:12.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 18:55:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[17Sep2025 18:55:20.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was eaten alive by Infected Wandering Trader
+[17Sep2025 18:55:21.002] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_17.09.2025-18.55.20.dat
+[17Sep2025 18:55:21.002] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -111 Y: 1.0 Z: 903
+[17Sep2025 18:55:21.002] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 02c0ddb5-a054-438e-8ccc-2d35c73ba638
+[17Sep2025 18:55:22.610] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 18:55:22.611] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 18:55:30.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 18:55:36.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
+[17Sep2025 18:55:48.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/25791, l='ServerLevel[world]', x=-93.58, y=8.00, z=899.00] died: Frank3033 was slain by Frank3033 using [The Remover of heads]
+[17Sep2025 18:56:08.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/26199, l='ServerLevel[world]', x=-104.42, y=2.73, z=899.67] died: Sahankiel071727 was slain by Sahankiel071727
+[17Sep2025 18:56:21.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 18:56:24.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Sahankiel071727 to Frank3033]
+[17Sep2025 18:56:29.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 18:56:40.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/26050, l='ServerLevel[world]', x=-23.72, y=5.00, z=916.94] died: Belladonna was shot by Skeleton
