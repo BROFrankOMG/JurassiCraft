@@ -1790,3 +1790,13 @@ java.lang.IllegalStateException: not found
 [17Sep2025 04:26:02.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDaless lost connection: Disconnected
 [17Sep2025 04:26:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless left the game
 [17Sep2025 04:26:02.026] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 151440db-f066-3ec3-aa0e-6bb692afb601 was unloaded
+[17Sep2025 04:37:34.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was shot by Skeleton
+[17Sep2025 04:37:34.324] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-04.37.34.dat
+[17Sep2025 04:37:34.324] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 108 Y: 72.00133597911214 Z: 950
+[17Sep2025 04:37:34.324] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is f6b37752-0a38-4892-a175-34fe2fd56adb
+[17Sep2025 04:37:35.871] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 04:37:35.872] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 04:37:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was shot by Skeleton
+[17Sep2025 04:37:58.171] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 4eb1f9a4-717a-4f08-bac5-e37ad6bd4abf
+[17Sep2025 04:37:59.679] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 04:37:59.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
