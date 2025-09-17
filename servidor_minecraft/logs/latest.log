@@ -1819,3 +1819,5 @@ java.lang.IllegalStateException: not found
 [17Sep2025 04:53:03.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
 [17Sep2025 04:53:03.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
 [17Sep2025 04:57:07.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7441, l='ServerLevel[world]', x=112.12, y=72.00, z=894.68] died, message: 'Unemployed was slain by Zombie'
+[17Sep2025 05:16:10.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[17Sep2025 05:16:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
