@@ -1800,3 +1800,14 @@ java.lang.IllegalStateException: not found
 [17Sep2025 04:37:58.171] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 4eb1f9a4-717a-4f08-bac5-e37ad6bd4abf
 [17Sep2025 04:37:59.679] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
 [17Sep2025 04:37:59.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 04:46:27.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
+[17Sep2025 04:46:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 left the game
+[17Sep2025 04:46:27.916] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was unloaded
+[17Sep2025 04:46:35.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:57719] logged in with entity id 47170 at (94.56551067644828, 106.0, 967.1500348058421)
+[17Sep2025 04:46:35.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
+[17Sep2025 04:46:35.365] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
+[17Sep2025 04:46:35.592] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
+[17Sep2025 04:46:35.592] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 04:46:35.592] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 04:47:48.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[17Sep2025 04:48:08.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]

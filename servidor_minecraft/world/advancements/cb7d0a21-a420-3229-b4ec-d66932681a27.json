@@ -1406,6 +1406,12 @@
     },
     "done": true
   },
+  "spore:volatile": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 04:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-17 03:29:21 +0000"
@@ -2265,6 +2271,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-17 04:46:32 +0000",
       "cooked_beef": "2025-09-17 03:04:57 +0000",
       "bread": "2025-09-17 03:17:17 +0000"
     },
