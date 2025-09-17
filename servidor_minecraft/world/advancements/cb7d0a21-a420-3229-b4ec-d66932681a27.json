@@ -3170,15 +3170,93 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
-      "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
+      "has_log": "2025-09-17 18:17:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
-      "has_egg": "2025-09-17 20:07:07 +0000"
+      "has_stripped_logs": "2025-09-17 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "spore:spitter": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 18:24:04 +0000"
+    },
+    "done": true
+  },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 18:24:54 +0000"
+    },
+    "done": true
+  },
+  "spore:wendigo": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 18:28:11 +0000"
+    },
+    "done": true
+  },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 18:30:21 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_drowned": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-17 18:32:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-09-17 18:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-17 18:37:47 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_trader": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 18:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-09-17 18:49:51 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 18:54:02 +0000"
+    },
+    "done": true
+  },
+  "spore:knight": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 18:56:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
     },
     "done": true
   },
@@ -3188,27 +3266,9 @@
     },
     "done": true
   },
-  "spore:lacerator": {
-    "criteria": {
-      "hurt_by_infected": "2025-09-17 20:07:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-09-17 19:37:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
     },
     "done": true
   },
@@ -3224,39 +3284,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-09-17 19:37:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
     },
     "done": true
   },
@@ -3266,39 +3296,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
-    },
-    "done": true
-  },
-  "spore:umarmed": {
-    "criteria": {
-      "hurt_infected": "2025-09-17 20:09:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
-    },
-    "done": true
-  },
-  "spore:slasher": {
-    "criteria": {
-      "hurt_infected": "2025-09-17 18:30:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-09-17 18:32:58 +0000"
     },
     "done": true
   },
@@ -3308,63 +3308,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2025-09-17 18:17:26 +0000"
-    },
-    "done": true
-  },
-  "spore:knight": {
-    "criteria": {
-      "hurt_infected": "2025-09-17 18:56:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/gold": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-17 18:17:26 +0000"
-    },
-    "done": true
-  },
-  "spore:inf_trader": {
-    "criteria": {
-      "hurt_infected": "2025-09-17 18:46:05 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-09-17 18:32:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
-    },
-    "done": true
-  },
-  "spore:inf_drowned": {
-    "criteria": {
-      "hurt_by_infected": "2025-09-17 18:32:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
     },
     "done": true
   },
@@ -3377,12 +3323,6 @@
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-09-17 18:37:47 +0000"
     },
     "done": true
   },
@@ -3404,18 +3344,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-09-17 19:37:21 +0000"
-    },
-    "done": true
-  },
-  "spore:wendigo": {
-    "criteria": {
-      "hurt_infected": "2025-09-17 18:28:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
@@ -3428,27 +3356,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-09-17 20:04:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
     },
     "done": true
   },
-  "spore:spitter": {
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "hurt_by_infected": "2025-09-17 18:24:04 +0000"
+      "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "obsidian": "2025-09-17 20:04:37 +0000"
+      "has_glowstone_dust": "2025-09-17 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-17 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-17 19:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-17 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-17 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-17 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
     },
     "done": true
   },
@@ -3464,24 +3476,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
-    },
-    "done": true
-  },
-  "spore:specter": {
-    "criteria": {
-      "hurt_infected": "2025-09-17 18:54:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-17 19:11:47 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-09-17 19:49:51 +0000"
@@ -3494,33 +3488,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-09-17 20:04:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_glowstone_dust": "2025-09-17 19:11:47 +0000"
+      "obsidian": "2025-09-17 20:04:37 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cake": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_egg": "2025-09-17 20:07:07 +0000"
-    },
-    "done": true
-  },
-  "spore:brotkatze": {
-    "criteria": {
-      "hurt_infected": "2025-09-17 18:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_copper": {
-    "criteria": {
-      "has_raw_copper_block": "2025-09-17 18:49:51 +0000"
+      "has_obsidian": "2025-09-17 20:04:37 +0000"
     },
     "done": true
   },
@@ -3530,15 +3518,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-09-17 19:35:04 +0000"
+      "has_egg": "2025-09-17 20:07:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "travelersbackpack:recipes/misc/cake": {
     "criteria": {
-      "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+      "has_egg": "2025-09-17 20:07:07 +0000"
+    },
+    "done": true
+  },
+  "spore:lacerator": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 20:07:46 +0000"
+    },
+    "done": true
+  },
+  "spore:umarmed": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "spore:plagued": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 20:58:08 +0000"
     },
     "done": true
   },

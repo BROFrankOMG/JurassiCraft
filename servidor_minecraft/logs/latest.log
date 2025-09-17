@@ -487,3 +487,61 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [17Sep2025 20:17:17.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
 [17Sep2025 20:17:17.757] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
 [17Sep2025 20:20:02.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [The Parrots and the Bats]
+[17Sep2025 20:32:17.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[17Sep2025 20:33:20.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 20:33:45.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Adventure Mode]
+[17Sep2025 20:33:50.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 20:34:33.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[17Sep2025 20:37:24.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[17Sep2025 20:39:29.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[17Sep2025 20:39:34.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 20:41:13.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Hot Stuff]
+[17Sep2025 20:52:57.588] [ForkJoinPool.commonPool-worker-13/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:iDaless'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md03d34c$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md03d34c$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[17Sep2025 20:52:57.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDaless[/127.66.7.97:46041] logged in with entity id 84909 at (104.08832206845771, 106.0, 963.6811496967822)
+[17Sep2025 20:52:57.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless joined the game
+[17Sep2025 20:52:57.630] [Server thread/INFO] [Jade/]: Syncing config to iDaless (151440db-f066-3ec3-aa0e-6bb692afb601)
+[17Sep2025 20:52:58.374] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 151440db-f066-3ec3-aa0e-6bb692afb601 was loaded
+[17Sep2025 20:52:58.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 20:52:58.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 20:55:37.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:36465] logged in with entity id 88694 at (102.07808806902237, 108.0, 967.2176264029362)
+[17Sep2025 20:55:37.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[17Sep2025 20:55:37.070] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[17Sep2025 20:55:37.863] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[17Sep2025 20:55:37.863] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 20:55:37.863] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 20:57:18.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 20:57:30.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 124.500000, 73.500000, 763.500000]
+[17Sep2025 20:58:09.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 withered away whilst fighting Plagued
+[17Sep2025 20:58:09.511] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-20.58.09.dat
+[17Sep2025 20:58:09.511] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 152 Y: 71.00133597911214 Z: 857
+[17Sep2025 20:58:09.511] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 8671ba86-39e0-4564-96e5-be78673c271e
+[17Sep2025 20:58:11.193] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 20:58:11.194] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 21:02:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[17Sep2025 21:02:01.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[17Sep2025 21:02:02.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[17Sep2025 21:02:03.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[17Sep2025 21:03:09.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was shot by Sahankiel071727
+[17Sep2025 21:03:09.457] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-21.03.09.dat
+[17Sep2025 21:03:09.457] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 110 Y: 106.0 Z: 965
+[17Sep2025 21:03:09.458] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 4a4d6112-776e-4367-9f46-e71f6163c503
+[17Sep2025 21:03:11.079] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 21:03:11.080] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
