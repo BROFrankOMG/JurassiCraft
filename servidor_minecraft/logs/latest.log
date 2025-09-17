@@ -1811,3 +1811,11 @@ java.lang.IllegalStateException: not found
 [17Sep2025 04:46:35.592] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
 [17Sep2025 04:47:48.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
 [17Sep2025 04:48:08.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 04:50:01.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Suit Up]
+[17Sep2025 04:53:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 fell from a high place
+[17Sep2025 04:53:01.969] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-04.53.01.dat
+[17Sep2025 04:53:01.969] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 91 Y: 69.0 Z: 964
+[17Sep2025 04:53:01.970] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 198f905c-92f4-4f21-b93d-0b86ac7e673b
+[17Sep2025 04:53:03.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 04:53:03.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 04:57:07.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7441, l='ServerLevel[world]', x=112.12, y=72.00, z=894.68] died, message: 'Unemployed was slain by Zombie'
