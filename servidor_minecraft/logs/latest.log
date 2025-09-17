@@ -1821,3 +1821,7 @@ java.lang.IllegalStateException: not found
 [17Sep2025 04:57:07.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7441, l='ServerLevel[world]', x=112.12, y=72.00, z=894.68] died, message: 'Unemployed was slain by Zombie'
 [17Sep2025 05:16:10.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
 [17Sep2025 05:16:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 05:21:16.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Protector['Ike'/48644, l='ServerLevel[world]', x=92.38, y=-3.00, z=934.38] died: Ike was slain by Zombie
+[17Sep2025 05:25:08.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[17Sep2025 05:25:08.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
+[17Sep2025 05:25:08.067] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded

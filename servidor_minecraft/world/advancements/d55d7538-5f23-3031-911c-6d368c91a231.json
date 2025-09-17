@@ -1296,7 +1296,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-09-17 03:35:19 +0000"
+      "cooked_porkchop": "2025-09-17 05:18:56 +0000",
+      "bread": "2025-09-17 03:35:19 +0000",
+      "cookie": "2025-09-17 05:24:16 +0000"
     },
     "done": false
   },
@@ -1629,6 +1631,30 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-09-17 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-17 05:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-17 05:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-09-17 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-09-17 05:21:35 +0000"
     },
     "done": true
   },
