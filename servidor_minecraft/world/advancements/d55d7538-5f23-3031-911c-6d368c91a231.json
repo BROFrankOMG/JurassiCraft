@@ -16,6 +16,7 @@
       "minecraft:beach": "2025-09-17 03:56:21 +0000",
       "minecraft:river": "2025-09-17 03:28:58 +0000",
       "minecraft:forest": "2025-09-17 03:18:38 +0000",
+      "minecraft:ocean": "2025-09-17 04:58:37 +0000",
       "minecraft:meadow": "2025-09-17 03:15:16 +0000",
       "minecraft:plains": "2025-09-17 03:16:13 +0000"
     },
@@ -1308,6 +1309,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-17 04:44:32 +0000",
+      "minecraft:creeper": "2025-09-17 04:59:36 +0000",
       "minecraft:zombie": "2025-09-17 03:39:49 +0000"
     },
     "done": false
@@ -1621,6 +1623,30 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-09-17 04:50:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-09-17 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-17 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-17 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-17 04:59:43 +0000"
     },
     "done": true
   },
