@@ -2065,6 +2065,12 @@
     },
     "done": true
   },
+  "spore:thorn": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 21:48:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-17 18:58:08 +0000"
@@ -2170,6 +2176,12 @@
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-09-17 20:15:46 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_evoker": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 21:48:36 +0000"
     },
     "done": true
   },
@@ -2458,6 +2470,12 @@
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-09-17 18:58:17 +0000"
+    },
+    "done": true
+  },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 21:49:18 +0000"
     },
     "done": true
   },
@@ -3040,6 +3058,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-09-17 18:57:51 +0000"
+    },
+    "done": true
+  },
+  "spore:bloater": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 21:50:30 +0000"
     },
     "done": true
   },

@@ -2294,6 +2294,12 @@
     },
     "done": true
   },
+  "spore:thorn": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 21:48:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2025-09-17 21:28:44 +0000"
@@ -2312,6 +2318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-09-17 21:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-09-17 21:20:18 +0000"
@@ -2321,6 +2333,12 @@
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2354,6 +2372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:48 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-09-17 21:30:25 +0000"
@@ -2369,6 +2393,12 @@
   "travelersbackpack:recipes/building_blocks/dye_green_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-09-17 21:32:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_light_gray_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2486,6 +2516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-09-17 21:08:22 +0000"
@@ -2495,6 +2531,18 @@
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 21:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2513,6 +2561,18 @@
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-09-17 21:28:44 +0000"
+    },
+    "done": true
+  },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 21:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-09-17 21:45:48 +0000"
     },
     "done": true
   },
@@ -2537,6 +2597,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-17 21:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2567,6 +2633,12 @@
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2618,6 +2690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-09-17 21:29:56 +0000"
@@ -2639,6 +2717,18 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:48 +0000"
     },
     "done": true
   },
@@ -2690,6 +2780,12 @@
     },
     "done": true
   },
+  "spore:jagd": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 21:49:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
@@ -2699,6 +2795,12 @@
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-09-17 21:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2723,6 +2825,18 @@
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-17 21:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2798,6 +2912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-09-17 21:06:40 +0000"
@@ -2846,6 +2966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-09-17 21:28:44 +0000"
@@ -2855,6 +2981,18 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-09-17 21:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -2930,6 +3068,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-17 21:06:40 +0000"
@@ -2942,9 +3092,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },
@@ -3032,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-09-17 21:22:13 +0000"
@@ -3050,6 +3236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
@@ -3059,6 +3251,12 @@
   "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
       "has_needed_dye": "2025-09-17 21:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-17 21:45:42 +0000"
     },
     "done": true
   },

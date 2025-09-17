@@ -8493,3 +8493,33 @@ java.lang.IllegalStateException: not found
 [17Sep2025 21:41:17.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Sep2025 21:41:17.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Sep2025 21:42:20.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
+[17Sep2025 21:43:13.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 21:43:27.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/107885, l='ServerLevel[world]', x=108.19, y=108.00, z=967.52] died, message: 'Toolsmith has succumbed to the infection'
+[17Sep2025 21:43:28.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/107888, l='ServerLevel[world]', x=102.63, y=108.00, z=967.70] died, message: 'Armorer has succumbed to the infection'
+[17Sep2025 21:43:31.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/107886, l='ServerLevel[world]', x=105.30, y=106.42, z=968.03] died, message: 'Mason was eaten alive by Infected Villager'
+[17Sep2025 21:46:17.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 21:46:17.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 21:46:27.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Ol' Betsy]
+[17Sep2025 21:47:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless fell from a high place
+[17Sep2025 21:47:37.087] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.standard_17.09.2025-21.47.37.dat
+[17Sep2025 21:47:37.087] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 116 Y: 74.0 Z: 934
+[17Sep2025 21:47:37.088] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 0d9575db-2457-42e2-9dc6-8317eddb2633
+[17Sep2025 21:47:43.457] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 21:47:43.457] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 21:47:43.460] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758145663460
+[17Sep2025 21:47:51.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by Jagdhund
+[17Sep2025 21:47:51.652] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-21.47.51.dat
+[17Sep2025 21:47:51.652] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 94 Y: 73.0648392688251 Z: 947
+[17Sep2025 21:47:51.652] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 85a471ce-3870-466d-bb64-b9ae67f99afd
+[17Sep2025 21:47:51.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved wrongly!
+[17Sep2025 21:47:53.021] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758145672994
+[17Sep2025 21:47:53.021] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 21:47:53.021] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 21:48:03.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was fungi-fied by Verdathorn
+[17Sep2025 21:48:03.702] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 86e43a33-a4c2-427d-ad62-b7b2afbd199c
+[17Sep2025 21:48:06.668] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758145686637
+[17Sep2025 21:48:06.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 21:48:06.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 21:48:51.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported Frank3033 to iDaless]
+[17Sep2025 21:51:17.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 21:51:17.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
