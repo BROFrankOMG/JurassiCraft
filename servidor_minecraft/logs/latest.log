@@ -605,3 +605,5 @@ java.lang.IllegalStateException: not found
 [17Sep2025 21:48:06.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
 [17Sep2025 21:48:06.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
 [17Sep2025 21:48:51.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported Frank3033 to iDaless]
+[17Sep2025 22:02:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Bonk!]
+[17Sep2025 22:03:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
