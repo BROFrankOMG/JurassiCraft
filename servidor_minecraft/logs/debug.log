@@ -7690,3 +7690,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [17Sep2025 19:16:17.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Sep2025 19:16:17.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Sep2025 19:18:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Sahankiel071727 to Frank3033]
+[17Sep2025 19:21:17.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 19:21:17.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 19:21:24.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 19:21:26.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was doomed to fall
+[17Sep2025 19:21:26.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-19.21.26.dat
+[17Sep2025 19:21:26.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 423 Y: -31.0 Z: 891
+[17Sep2025 19:21:26.211] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 77306496-454d-4570-8d2b-f3c6fdf78358
+[17Sep2025 19:21:27.847] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758136887847
+[17Sep2025 19:21:27.854] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 19:21:27.854] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 19:21:29.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 19:22:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: The difficulty has been set to Hard]
+[17Sep2025 19:26:17.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 19:26:17.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 19:26:45.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was shot by Skeleton
+[17Sep2025 19:26:45.199] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-19.26.45.dat
+[17Sep2025 19:26:45.200] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 389 Y: -9.203264399331307 Z: 811
+[17Sep2025 19:26:45.200] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 5ea71658-9e91-4191-94a9-4b6f02faf36e
+[17Sep2025 19:26:46.640] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 19:26:46.641] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 19:26:46.650] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758137206650
+[17Sep2025 19:26:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 19:27:28.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/39028, l='ServerLevel[world]', x=375.30, y=-9.43, z=811.85] died: TokenOni420 was slain by Frank3033
+[17Sep2025 19:28:43.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was blown up by Creeper
+[17Sep2025 19:28:43.152] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-19.28.43.dat
+[17Sep2025 19:28:43.152] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 390 Y: -10.0 Z: 808
+[17Sep2025 19:28:43.153] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 21abdd3b-27ff-4621-a584-fed9f9f4a3a9
+[17Sep2025 19:28:44.886] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 19:28:44.887] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 19:28:44.888] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758137324886
+[17Sep2025 19:28:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 19:29:10.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/39865, l='ServerLevel[world]', x=350.31, y=-18.00, z=899.28] died: Sire_AwfulThe1st was shot by Skeleton
+[17Sep2025 19:29:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was blown up by Creeper
+[17Sep2025 19:29:55.548] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-19.29.55.dat
+[17Sep2025 19:29:55.548] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 406 Y: -14.0 Z: 830
+[17Sep2025 19:29:55.549] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 7154c07b-2679-4832-9747-7e4fc9e599a6
+[17Sep2025 19:29:56.754] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758137396754
+[17Sep2025 19:29:56.759] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 19:29:56.759] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 19:29:57.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 19:30:20.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/42230, l='ServerLevel[world]', x=510.30, y=-1.00, z=783.43] died: Technoblade was slain by Zombie
+[17Sep2025 19:31:17.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 19:31:17.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 19:32:33.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[17Sep2025 19:32:48.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/42256, l='ServerLevel[world]', x=463.16, y=-17.00, z=920.39] died: Keymind was slain by Zombie
+[17Sep2025 19:36:17.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 19:36:17.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 19:38:43.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was slain by Infested Construct
+[17Sep2025 19:38:43.845] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-19.38.43.dat
+[17Sep2025 19:38:43.845] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 208 Y: 72.0 Z: 744
+[17Sep2025 19:38:43.845] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is be314a98-3cfa-4240-b55e-ce3adfbfe625
+[17Sep2025 19:38:45.653] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758137925652
+[17Sep2025 19:38:45.653] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 19:38:45.654] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 19:38:58.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 207.500000, 77.500000, 740.500000]
+[17Sep2025 19:41:15.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=71, z=939} BlockPos{x=25, y=70, z=939}
+[17Sep2025 19:41:17.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 19:41:17.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 19:41:20.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=939} BlockPos{x=30, y=69, z=939}
+[17Sep2025 19:41:21.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=939} BlockPos{x=30, y=69, z=939}
+[17Sep2025 19:41:21.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=939} BlockPos{x=30, y=69, z=939}
+[17Sep2025 19:41:21.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=939} BlockPos{x=30, y=69, z=939}
+[17Sep2025 19:41:21.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=939} BlockPos{x=30, y=69, z=939}
+[17Sep2025 19:41:21.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=939} BlockPos{x=30, y=69, z=939}
+[17Sep2025 19:41:24.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=940} BlockPos{x=30, y=69, z=940}
+[17Sep2025 19:41:24.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=940} BlockPos{x=30, y=69, z=940}
+[17Sep2025 19:41:24.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=940} BlockPos{x=30, y=69, z=940}
+[17Sep2025 19:41:24.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=940} BlockPos{x=30, y=69, z=940}
+[17Sep2025 19:41:24.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=70, z=940} BlockPos{x=30, y=69, z=940}
+[17Sep2025 19:41:24.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=30, y=69, z=940}
+[17Sep2025 19:41:24.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=69, z=939}
+[17Sep2025 19:41:25.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=69, z=939}
+[17Sep2025 19:41:25.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=69, z=939}
+[17Sep2025 19:41:25.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=69, z=939}
+[17Sep2025 19:41:25.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=69, z=939}
+[17Sep2025 19:41:25.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=69, z=939}
+[17Sep2025 19:41:28.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=68, z=939}
+[17Sep2025 19:41:28.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=68, z=939}

@@ -955,6 +955,8 @@
       "minecraft:skeleton": "2025-09-17 03:58:03 +0000",
       "minecraft:spider": "2025-09-17 03:37:16 +0000",
       "minecraft:creeper": "2025-09-17 03:29:44 +0000",
+      "minecraft:cave_spider": "2025-09-17 19:22:37 +0000",
+      "minecraft:enderman": "2025-09-17 19:17:35 +0000",
       "minecraft:zombie": "2025-09-17 03:18:01 +0000",
       "minecraft:zombie_villager": "2025-09-17 18:51:46 +0000"
     },
@@ -3180,6 +3182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-17 19:37:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
@@ -3195,6 +3203,12 @@
   "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-17 19:37:21 +0000"
     },
     "done": true
   },
@@ -3312,6 +3326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-17 19:37:21 +0000"
+    },
+    "done": true
+  },
   "spore:wendigo": {
     "criteria": {
       "hurt_infected": "2025-09-17 18:28:11 +0000"
@@ -3375,6 +3395,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-09-17 18:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-17 19:35:04 +0000"
     },
     "done": true
   },
