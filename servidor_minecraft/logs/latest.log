@@ -545,3 +545,19 @@ java.lang.IllegalStateException: not found
 [17Sep2025 21:03:09.458] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 4a4d6112-776e-4367-9f46-e71f6163c503
 [17Sep2025 21:03:11.079] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
 [17Sep2025 21:03:11.080] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 21:14:49.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 21:17:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[17Sep2025 21:17:37.307] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.standard_17.09.2025-21.17.37.dat
+[17Sep2025 21:17:37.308] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 118 Y: 75.0 Z: 918
+[17Sep2025 21:17:37.308] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is b9d72548-7cb1-4c9c-9e3e-2484ab11624e
+[17Sep2025 21:17:38.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 21:17:38.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 21:17:40.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/102568, l='ServerLevel[world]', x=118.68, y=75.00, z=918.70] died: iDaless was shot by Frank3033
+[17Sep2025 21:19:31.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was slain by Usurper
+[17Sep2025 21:19:31.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_17.09.2025-21.19.31.dat
+[17Sep2025 21:19:31.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 121 Y: 75.0 Z: 923
+[17Sep2025 21:19:31.318] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 4341f4cf-3fbb-4846-b1fc-a16301c59fa0
+[17Sep2025 21:19:33.313] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 21:19:33.313] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 21:20:42.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[17Sep2025 21:20:53.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
