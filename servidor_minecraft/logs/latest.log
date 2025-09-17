@@ -1617,3 +1617,132 @@ java.lang.IllegalStateException: not found
 [17Sep2025 03:16:51.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [A Seedy Place]
 [17Sep2025 03:17:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Isn't It Iron Pick]
 [17Sep2025 03:18:01.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Monster Hunter]
+[17Sep2025 03:19:22.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Sweet Dreams]
+[17Sep2025 03:20:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Stone Age]
+[17Sep2025 03:21:35.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Getting an Upgrade]
+[17Sep2025 03:21:46.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Acquire Hardware]
+[17Sep2025 03:21:56.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Isn't It Iron Pick]
+[17Sep2025 03:22:29.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Acquire Hardware]
+[17Sep2025 03:22:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Isn't It Iron Pick]
+[17Sep2025 03:24:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was slain by Zombie
+[17Sep2025 03:24:56.585] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 87cc00ba-0ff9-48b3-a7b9-5c448ebf9349
+[17Sep2025 03:24:58.597] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:24:58.597] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:25:17.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 62.500000, -23.500000, 858.500000]
+[17Sep2025 03:25:25.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Made iDaless a server operator]
+[17Sep2025 03:25:29.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Made s a server operator]
+[17Sep2025 03:25:32.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Made Sahankiel071727 a server operator]
+[17Sep2025 03:28:07.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Suit Up]
+[17Sep2025 03:29:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Meet the Team]
+[17Sep2025 03:29:54.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/18237, l='ServerLevel[world]', x=178.65, y=-45.00, z=910.17] died: TVGuy burned to death
+[17Sep2025 03:29:58.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Spore]
+[17Sep2025 03:35:07.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Diamonds!]
+[17Sep2025 03:36:43.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 03:36:52.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Hot Stuff]
+[17Sep2025 03:37:03.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Monster Hunter]
+[17Sep2025 03:39:08.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has succumbed to the infection
+[17Sep2025 03:39:08.481] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-03.39.08.dat
+[17Sep2025 03:39:08.482] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 73 Y: -40.0 Z: 806
+[17Sep2025 03:39:08.482] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is cacbb137-c087-4bba-b72a-dbeee37db211
+[17Sep2025 03:39:10.298] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:39:10.298] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:39:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[17Sep2025 03:39:16.972] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 842d09a9-9886-43d5-9167-1bd150d9baf7
+[17Sep2025 03:39:18.534] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:39:18.534] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:39:23.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/25043, l='ServerLevel[world]', x=68.05, y=-41.00, z=803.53] died: Frank3033 was slain by Frank3033
+[17Sep2025 03:39:23.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Meet the Team]
+[17Sep2025 03:39:29.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/25126, l='ServerLevel[world]', x=75.60, y=-39.06, z=800.30] died: iDaless was slain by Frank3033
+[17Sep2025 03:39:49.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Monster Hunter]
+[17Sep2025 03:40:09.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has succumbed to the infection
+[17Sep2025 03:40:09.970] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 90a04dfe-27e4-49fd-982a-00c96e4d5733
+[17Sep2025 03:40:11.391] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:40:11.391] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:40:12.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[17Sep2025 03:40:12.978] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is d8a3b2a2-146c-43de-89ed-f85aa9ca7eb3
+[17Sep2025 03:40:14.441] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:40:14.442] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:40:35.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/25505, l='ServerLevel[world]', x=72.70, y=-40.00, z=801.30] died: iDaless was slain by iDaless
+[17Sep2025 03:40:36.977] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/25429, l='ServerLevel[world]', x=75.34, y=-39.57, z=800.37] died: Frank3033 was slain by Frank3033
+[17Sep2025 03:40:58.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[17Sep2025 03:40:58.471] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 54afb6ca-2249-4bd8-83d5-bde08ccb274a
+[17Sep2025 03:40:58.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has succumbed to the infection
+[17Sep2025 03:40:58.971] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 90c8ab37-b5f2-4010-9a00-294531fec0aa
+[17Sep2025 03:40:59.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:40:59.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:41:00.231] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:41:00.231] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:41:15.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/26006, l='ServerLevel[world]', x=75.45, y=-39.23, z=800.68] died: Frank3033 was slain by iDaless
+[17Sep2025 03:41:25.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/25971, l='ServerLevel[world]', x=74.64, y=-40.00, z=801.32] died: iDaless was slain by Frank3033
+[17Sep2025 03:41:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was fungi-fied by Infected Human
+[17Sep2025 03:41:27.777] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 06a44af2-228c-42e0-9de6-33dca395a257
+[17Sep2025 03:41:29.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was fungi-fied by Infected Human
+[17Sep2025 03:41:29.071] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is ab52384a-e7ec-4ff3-8d32-49ad8f768d3b
+[17Sep2025 03:41:29.086] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:41:29.086] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:41:30.638] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:41:30.638] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:41:33.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 forgot Frank3033 was a bioweapon
+[17Sep2025 03:41:33.932] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is c500115e-5983-49e6-a41f-f299b57c673d
+[17Sep2025 03:41:35.176] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:41:35.177] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:41:40.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was slain by Frank3033
+[17Sep2025 03:41:40.882] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is b67c5db8-b7cf-45cd-85bc-13fadd52ac35
+[17Sep2025 03:41:42.163] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:41:42.163] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:41:45.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Spore]
+[17Sep2025 03:41:47.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by Infected Human
+[17Sep2025 03:41:47.975] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is a89e3605-5037-41a4-a96c-3f4cd2c070b4
+[17Sep2025 03:41:49.594] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:41:49.594] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:42:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has succumbed to the infection
+[17Sep2025 03:42:04.495] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is f82a8850-230b-42ea-aef9-fbd7edc736c4
+[17Sep2025 03:42:05.760] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:42:05.760] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:42:09.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/26231, l='ServerLevel[world]', x=38.70, y=-28.58, z=828.44] died: Frank3033 was slain by iDaless
+[17Sep2025 03:42:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has succumbed to the infection
+[17Sep2025 03:42:21.991] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 2e907c31-db7c-40ad-82f1-f3e42f500b21
+[17Sep2025 03:42:23.405] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:42:23.405] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:42:42.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/26567, l='ServerLevel[world]', x=53.28, y=-34.00, z=814.14] died: Frank3033 was slain by iDaless
+[17Sep2025 03:42:54.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/26271, l='ServerLevel[world]', x=54.62, y=-35.00, z=813.83] died: iDaless was slain by iDaless
+[17Sep2025 03:42:58.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/26386, l='ServerLevel[world]', x=18.53, y=-28.07, z=795.50] died: Frank3033 tried to swim in lava
+[17Sep2025 03:43:10.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/26301, l='ServerLevel[world]', x=19.43, y=-31.00, z=796.52] died: Frank3033 burned to death
+[17Sep2025 03:43:32.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported iDaless to Frank3033]
+[17Sep2025 03:43:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported iDaless to Frank3033]
+[17Sep2025 03:43:45.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/26349, l='ServerLevel[world]', x=18.59, y=-32.00, z=795.70] died: Frank3033 tried to swim in lava
+[17Sep2025 03:43:48.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/26658, l='ServerLevel[world]', x=18.57, y=-32.00, z=794.51] died: Frank3033 tried to swim in lava
+[17Sep2025 03:45:01.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was slain by Infected Human
+[17Sep2025 03:45:01.724] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 1d105c0f-fc2a-44f4-95e1-8b03ab3a7aac
+[17Sep2025 03:45:02.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Not Today, Thank You]
+[17Sep2025 03:45:03.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:45:03.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:45:15.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was slain by iDaless
+[17Sep2025 03:45:15.675] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 5643ece0-5064-4a79-b080-496e2cea0a52
+[17Sep2025 03:45:17.238] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:45:17.238] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:45:52.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/27321, l='ServerLevel[world]', x=74.75, y=-38.98, z=800.30] died: iDaless was slain by iDaless
+[17Sep2025 03:46:00.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/27374, l='ServerLevel[world]', x=74.59, y=-38.90, z=800.24] died: iDaless was slain by iDaless
+[17Sep2025 03:46:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless forgot Infected Villager was a bioweapon
+[17Sep2025 03:46:37.382] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 0fa3abba-73c2-4917-9bfd-7053dac65714
+[17Sep2025 03:46:39.794] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:46:39.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:46:46.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was shot by Infected Pillager
+[17Sep2025 03:46:46.587] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is b1cff2a4-ee7a-48a2-b9a9-367b3572d2cd
+[17Sep2025 03:46:49.872] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:46:49.872] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:47:18.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was fungi-fied by Infected Human
+[17Sep2025 03:47:18.070] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is d2ed8a3d-7458-4b73-8d54-e3c8b239d74e
+[17Sep2025 03:47:20.300] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:47:20.301] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:47:25.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by Infected Villager
+[17Sep2025 03:47:25.971] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 4a90b713-aec0-4b4a-9072-2e51e7438a12
+[17Sep2025 03:47:28.313] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:47:28.313] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:47:42.505] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/27981, l='ServerLevel[world]', x=34.91, y=-41.00, z=806.75] died: iDaless was slain by iDaless
+[17Sep2025 03:47:47.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/27718, l='ServerLevel[world]', x=43.51, y=-33.47, z=772.51] died: Frank3033 tried to swim in lava
+[17Sep2025 03:47:51.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/28055, l='ServerLevel[world]', x=45.23, y=-37.00, z=769.76] died: Frank3033 tried to swim in lava to escape Frank3033
+[17Sep2025 03:47:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was eaten alive by Infected Pillager
+[17Sep2025 03:47:52.327] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is f98f161b-d6dd-44d2-9514-67f5ae46c5a3
+[17Sep2025 03:47:53.843] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:47:53.844] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
