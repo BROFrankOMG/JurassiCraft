@@ -7779,3 +7779,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [17Sep2025 19:56:17.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Sep2025 20:01:17.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Sep2025 20:01:17.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 20:02:04.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[17Sep2025 20:02:37.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 20:02:53.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was slain by Usurper
+[17Sep2025 20:02:53.362] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-20.02.53.dat
+[17Sep2025 20:02:53.362] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 19 Y: 64.0 Z: 701
+[17Sep2025 20:02:53.362] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 3f3fa73e-81b0-4237-a599-016b918acfa2
+[17Sep2025 20:02:56.036] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758139376029
+[17Sep2025 20:02:56.037] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 20:02:56.037] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 20:03:51.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/59168, l='ServerLevel[world]', x=89.22, y=-4.00, z=732.95] died: Hypnotizd was slain by Zombie
+[17Sep2025 20:04:37.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Ice Bucket Challenge]
+[17Sep2025 20:05:28.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/59167, l='ServerLevel[world]', x=63.30, y=-13.00, z=724.48] died: Deyvid was doomed to fall by Zombie
+[17Sep2025 20:06:17.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 20:06:17.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 20:07:44.645] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/62647, l='ServerLevel[world]', x=-129.51, y=-2.00, z=656.70] died: WhisperFire26 burned to death
+[17Sep2025 20:07:46.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was fungi-fied by Lacerator
+[17Sep2025 20:07:46.758] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-20.07.46.dat
+[17Sep2025 20:07:46.759] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 105 Y: 71.0 Z: 814
+[17Sep2025 20:07:46.759] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 99c48686-6e75-427e-89b5-1a0c329cf0c5
+[17Sep2025 20:07:50.335] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758139670324
+[17Sep2025 20:07:50.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 20:07:50.336] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 20:07:57.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[17Sep2025 20:08:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 20:11:17.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 20:11:17.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 20:13:04.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[17Sep2025 20:15:32.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 20:16:17.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 20:16:17.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 20:17:17.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[17Sep2025 20:17:17.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
+[17Sep2025 20:17:17.757] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
+[17Sep2025 20:20:02.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [The Parrots and the Bats]
+[17Sep2025 20:21:17.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 20:21:17.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

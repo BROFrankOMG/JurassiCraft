@@ -3176,9 +3176,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-17 20:07:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "spore:lacerator": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 20:07:46 +0000"
     },
     "done": true
   },
@@ -3257,6 +3269,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-17 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "spore:umarmed": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 20:09:38 +0000"
     },
     "done": true
   },
@@ -3410,6 +3428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-09-17 20:04:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-09-17 19:07:35 +0000"
@@ -3419,6 +3443,12 @@
   "spore:spitter": {
     "criteria": {
       "hurt_by_infected": "2025-09-17 18:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-17 20:04:37 +0000"
     },
     "done": true
   },
@@ -3464,9 +3494,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-17 20:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-09-17 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-09-17 20:07:07 +0000"
     },
     "done": true
   },
@@ -3479,6 +3521,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-09-17 18:49:51 +0000"
+    },
+    "done": true
+  },
+  "spore:verva": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 20:04:57 +0000"
     },
     "done": true
   },
