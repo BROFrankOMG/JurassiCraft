@@ -1,0 +1,342 @@
+{
+  "modpackName": "",
+  "automodpackVersion": "4.0.0-beta38",
+  "loader": "forge",
+  "loaderVersion": "47.3.7",
+  "mcVersion": "1.20.1",
+  "list": [
+    {
+      "file": "/mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "size": "1385600",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f12b3781af6337794ae6e010420a97585360ea2f",
+      "murmur": "3362609034"
+    },
+    {
+      "file": "/mods/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "size": "488060",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "06fbad254100a7c9fcf829e1e33c5348d9799a87",
+      "murmur": "2699166003"
+    },
+    {
+      "file": "/mods/waystones-forge-1.20.1-14.1.17.jar",
+      "size": "518286",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "0572e124fa1af248b5b978d7c615fb31629103e5",
+      "murmur": "2179640189"
+    },
+    {
+      "file": "/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "size": "439457",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "murmur": "1899432453"
+    },
+    {
+      "file": "/mods/botarium-forge-1.20.1-2.3.4.jar",
+      "size": "157633",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+      "murmur": "752547332"
+    },
+    {
+      "file": "/mods/balm-forge-1.20.1-7.3.35-all.jar",
+      "size": "597605",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1af2f40a77ea8a140d498fcf846cba58c9c6bce5",
+      "murmur": "3114774602"
+    },
+    {
+      "file": "/mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "size": "552486",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+      "murmur": "305733389"
+    },
+    {
+      "file": "/mods/createaddition-1.20.1-1.3.2.jar",
+      "size": "1583476",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "41ea564e270effea8bad04b937fb30d2a3bb5053",
+      "murmur": "651191455"
+    },
+    {
+      "file": "/mods/travelersbackpack-forge-1.20.1-9.1.40.jar",
+      "size": "1251661",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "bb74c9bb85af3b6465cf0df7e63559af916a96c2",
+      "murmur": "1620899777"
+    },
+    {
+      "file": "/mods/easy_gamma-1.0.0-forge-1.20.1.jar",
+      "size": "32830",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "21b274d930a0fa7594c72945d8671a17f3111732",
+      "murmur": "2810565311"
+    },
+    {
+      "file": "/mods/wthit-forge-8.16.3.jar",
+      "size": "785327",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "4f1ee5275a283599a13e9579ae3f71de558a89b9",
+      "murmur": "9339109"
+    },
+    {
+      "file": "/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "size": "960799",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3c4005a400ba8270738bbe4c573526749ecf2f8f",
+      "murmur": "3696490833"
+    },
+    {
+      "file": "/mods/badpackets-forge-0.4.3.jar",
+      "size": "27919",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "34b4ae0b51fe8bb55529dd20968bf58e20b4a21e",
+      "murmur": "753944455"
+    },
+    {
+      "file": "/mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
+      "size": "655951",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "4c129437845f8d808ee56663fb7413dfed2f8daf",
+      "murmur": "3911378660"
+    },
+    {
+      "file": "/mods/cloth-config-11.1.136-forge.jar",
+      "size": "1181413",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "murmur": "635589968"
+    },
+    {
+      "file": "/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+      "size": "1723029",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce",
+      "murmur": "916576203"
+    },
+    {
+      "file": "/mods/tacz-1.20.1-1.1.6-hotfix.jar",
+      "size": "47826468",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e951d81b5f452bcad47c20d5b491fd26f8de8ce2",
+      "murmur": "2403143546"
+    },
+    {
+      "file": "/mods/spore_nightmare-1.0.4b.jar",
+      "size": "93916",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "22979ce702d6e51e0c7b8ae3cc900649776083df",
+      "murmur": "1887099076"
+    },
+    {
+      "file": "/mods/gunpowderrecipe-1.0.4-forge-1.20.1.jar",
+      "size": "6895",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "16bd47f6c153a487941c92c22dd05f0e71072a93",
+      "murmur": "3640657900"
+    },
+    {
+      "file": "/mods/create-new-age-forge-1.20.1-1.1.4.jar",
+      "size": "603827",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "46687106ee5753ff3a92580ce514c6abc6216045",
+      "murmur": "351713580"
+    },
+    {
+      "file": "/mods/ftb-ultimine-forge-2001.1.7.jar",
+      "size": "114945",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3cbefa29b387cebb85022cb0ff838fd54b67cf82",
+      "murmur": "2751984927"
+    },
+    {
+      "file": "/mods/ftb-library-forge-2001.2.10.jar",
+      "size": "791875",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "9472bb30d0e38cb774b9cc7852bdd8dbf845622b",
+      "murmur": "1946083881"
+    },
+    {
+      "file": "/mods/gravestone-forge-1.20.1-1.0.33.jar",
+      "size": "317148",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "17d669333d32e373188217dca58296323fcd0c90",
+      "murmur": "2368538774"
+    },
+    {
+      "file": "/mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar",
+      "size": "845556",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b31ffefa9579649de8acbac53ac0792830f71e60",
+      "murmur": "3120583455"
+    },
+    {
+      "file": "/mods/architectury-9.2.14-forge.jar",
+      "size": "580602",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "murmur": "98480002"
+    },
+    {
+      "file": "/mods/spore_2.1.6e_1.20.1.jar",
+      "size": "22624298",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "53db60c1cb3b1bed56a9da2256ae3cc81c5a1b86",
+      "murmur": "353014511"
+    },
+    {
+      "file": "/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "size": "2612506",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "0c2f647cec98c3a4ca6d05b7a2f14962e66ad824",
+      "murmur": "1644471708"
+    },
+    {
+      "file": "/mods/tacz_c-1.0.1-forge-1.20.1.jar",
+      "size": "422269",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "02d835767538d8ae72bbe9502eddc7b6a15a1a49",
+      "murmur": "709305324"
+    },
+    {
+      "file": "/mods/create-1.20.1-6.0.6.jar",
+      "size": "18764522",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c5eb5efad7a4776d558b44b28891f2e33eef03e4",
+      "murmur": "2250750288"
+    },
+    {
+      "file": "/mods/geckolib-forge-1.20.1-4.7.4.jar",
+      "size": "1013210",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "db550c1cab6c5e07a592f7881b6772d45626a50d",
+      "murmur": "1584275441"
+    },
+    {
+      "file": "/mods/skinrestorer-2.4.3+1.20-forge.jar",
+      "size": "188270",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c2b161dd0bee1b5ceef7c2b2f8b415517eb4125f",
+      "murmur": "800398358"
+    },
+    {
+      "file": "/mods/rustic_engineer-1.1.3-forge-1.20.1.jar",
+      "size": "1742410",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "43adea4841209bcfd63d16a6a3d188965c49a291",
+      "murmur": "1084036457"
+    },
+    {
+      "file": "/mods/ParCool-1.20.1-3.4.1.5.jar",
+      "size": "1133021",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "ad61d32c5185bd9daa43722657af3a8a5aa751a0",
+      "murmur": "3134352375"
+    },
+    {
+      "file": "/mods/OptiFine_1.20.1_HD_U_I6.jar",
+      "size": "7145205",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "227914ab1037762eae44a2e66a568b87d7a02365",
+      "murmur": "1585774229"
+    },
+    {
+      "file": "/mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar",
+      "size": "10932092",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f2b32531122f07d53f12159f680b4777606ef6ce",
+      "murmur": "3180244679"
+    },
+    {
+      "file": "/mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "size": "190536",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "29f240c16ff1a1bc574d69162d379cc1c881e1ab",
+      "murmur": "2890112686"
+    },
+    {
+      "file": "/mods/SporeMore-1.1-1.20.1.jar",
+      "size": "98836",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "608b0b36c275f54d2e385bc7213b6cff6fa8e10c",
+      "murmur": "2830525526"
+    }
+  ]
+}

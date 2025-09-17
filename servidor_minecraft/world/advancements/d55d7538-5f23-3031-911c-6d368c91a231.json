@@ -1297,6 +1297,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-17 05:18:56 +0000",
+      "cooked_beef": "2025-09-17 17:21:20 +0000",
       "bread": "2025-09-17 03:35:19 +0000",
       "cookie": "2025-09-17 05:24:16 +0000"
     },
@@ -1628,7 +1629,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-17 04:58:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-09-17 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-17 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-09-17 04:59:43 +0000"
     },
@@ -1646,33 +1665,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-09-17 05:22:26 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-09-17 05:21:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_water_bucket": "2025-09-17 04:58:38 +0000"
+      "has_poppy": "2025-09-17 05:22:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "spore:inf_mobs": {
     "criteria": {
-      "has_gunpowder": "2025-09-17 04:59:43 +0000"
+      "hurt_infected": "2025-09-17 17:18:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "spore:mound": {
     "criteria": {
-      "has_gunpowder": "2025-09-17 04:59:43 +0000"
+      "hurt_infected": "2025-09-17 17:18:48 +0000"
+    },
+    "done": true
+  },
+  "spore:hindicator": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 17:23:03 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_villager": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-09-17 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_construct": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 17:29:01 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_human": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 17:29:25 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "pick_up_scanner": "2025-09-17 17:32:17 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_husk": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 17:33:06 +0000"
+    },
+    "done": true
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-17 17:43:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-17 17:56:06 +0000"
     },
     "done": true
   },
