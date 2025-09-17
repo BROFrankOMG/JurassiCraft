@@ -561,3 +561,24 @@ java.lang.IllegalStateException: not found
 [17Sep2025 21:19:33.313] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
 [17Sep2025 21:20:42.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
 [17Sep2025 21:20:53.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[17Sep2025 21:22:46.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[17Sep2025 21:22:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to iDaless]
+[17Sep2025 21:23:43.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
+[17Sep2025 21:23:48.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Adventure Mode]
+[17Sep2025 21:24:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[17Sep2025 21:28:00.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 21:28:39.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [The Andesite Age]
+[17Sep2025 21:36:48.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 was kicked for floating too long!
+[17Sep2025 21:36:48.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[17Sep2025 21:36:48.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
+[17Sep2025 21:36:48.449] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
+[17Sep2025 21:36:48.499] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Sep2025 21:37:18.850] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@451e1dc5[id=<null>,name=Frank3033,properties={},legacy=false] (/127.63.248.189:41263) lost connection: Disconnected
+[17Sep2025 21:37:30.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:43705] logged in with entity id 118640 at (94.95942214793695, 71.24918707874468, 948.5169481193964)
+[17Sep2025 21:37:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[17Sep2025 21:37:30.222] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[17Sep2025 21:37:30.474] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[17Sep2025 21:37:30.475] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 21:37:30.475] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 21:38:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 21:42:20.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
