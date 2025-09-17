@@ -1787,3 +1787,6 @@ java.lang.IllegalStateException: not found
 [17Sep2025 04:11:32.780] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
 [17Sep2025 04:11:32.780] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
 [17Sep2025 04:11:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 04:26:02.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDaless lost connection: Disconnected
+[17Sep2025 04:26:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless left the game
+[17Sep2025 04:26:02.026] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 151440db-f066-3ec3-aa0e-6bb692afb601 was unloaded
