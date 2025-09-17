@@ -458,3 +458,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [17Sep2025 19:41:25.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=69, z=939}
 [17Sep2025 19:41:28.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=68, z=939}
 [17Sep2025 19:41:28.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=70, z=939} BlockPos{x=31, y=68, z=939}
+[17Sep2025 19:44:25.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Helldwin'/49717, l='ServerLevel[world]', x=129.64, y=45.00, z=869.70] died: Helldwin suffocated in a wall
+[17Sep2025 19:54:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[17Sep2025 19:55:21.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
