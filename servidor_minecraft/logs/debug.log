@@ -9806,3 +9806,41 @@ java.lang.IllegalStateException: not found
 [17Sep2025 03:47:53.843] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
 [17Sep2025 03:47:53.844] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
 [17Sep2025 03:47:53.886] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758080873850
+[17Sep2025 03:48:23.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was eaten alive by Infected Villager
+[17Sep2025 03:48:23.833] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is b12b112a-0b80-40ae-8bb9-ad25731e2111
+[17Sep2025 03:48:25.450] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758080905418
+[17Sep2025 03:48:25.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:48:25.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:48:25.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by Infected Villager
+[17Sep2025 03:48:25.765] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 322ec57f-c57f-41c0-a691-0847893b082a
+[17Sep2025 03:48:29.435] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758080909396
+[17Sep2025 03:48:29.435] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 03:48:29.435] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 03:49:07.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/28453, l='ServerLevel[world]', x=39.99, y=-30.36, z=797.26] died: Frank3033 tried to swim in lava
+[17Sep2025 03:49:09.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/28224, l='ServerLevel[world]', x=40.45, y=-32.75, z=798.25] died: iDaless burned to death
+[17Sep2025 03:49:27.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/28392, l='ServerLevel[world]', x=46.40, y=-36.00, z=803.62] died: iDaless burned to death
+[17Sep2025 03:49:30.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7565, l='ServerLevel[world]', x=96.70, y=66.00, z=753.70] died, message: 'Farmer was slain by Zombie'
+[17Sep2025 03:51:45.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was fungi-fied by Braiomil
+[17Sep2025 03:51:45.274] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 488de6f1-a72a-43d2-8eef-30d1f8a9c0c0
+[17Sep2025 03:51:50.379] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758081110379
+[17Sep2025 03:51:50.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:51:50.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:52:11.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[17Sep2025 03:52:11.486] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 089baae3-99c5-44af-b4ee-5b8311735d89
+[17Sep2025 03:52:13.343] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758081133320
+[17Sep2025 03:52:13.343] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:52:13.344] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:52:22.834] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:52:25.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/29186, l='ServerLevel[world]', x=68.84, y=-42.00, z=806.79] died: iDaless was slain by Zombie
+[17Sep2025 03:52:32.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 03:52:32.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 03:52:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[17Sep2025 03:52:46.481] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 71f2dfed-8295-4201-b1f6-ac50a0dec311
+[17Sep2025 03:52:47.847] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758081167847
+[17Sep2025 03:52:47.847] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[17Sep2025 03:52:47.847] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[17Sep2025 03:52:59.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported iDaless to Frank3033]
+[17Sep2025 03:57:32.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 03:57:32.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 03:57:48.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/29719, l='ServerLevel[world]', x=17.44, y=-32.00, z=791.17] died: iDaless died
+[17Sep2025 03:58:08.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Diamonds!]
