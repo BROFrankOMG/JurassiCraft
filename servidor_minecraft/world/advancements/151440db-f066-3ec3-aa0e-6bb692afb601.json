@@ -2474,6 +2474,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-09-17 22:02:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
@@ -2522,6 +2528,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-17 22:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-09-17 21:08:22 +0000"
@@ -2558,6 +2570,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-09-17 22:05:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-09-17 21:28:44 +0000"
@@ -2585,6 +2603,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-17 21:16:38 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-09-17 22:05:46 +0000"
     },
     "done": true
   },
@@ -2657,6 +2681,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-09-17 21:21:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-09-17 22:03:59 +0000"
     },
     "done": true
   },
@@ -2798,6 +2828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-17 22:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-09-17 21:45:42 +0000"
@@ -2900,6 +2936,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-09-17 22:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-17 21:16:38 +0000"
@@ -2966,9 +3008,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-17 22:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_wool": {
     "criteria": {
       "has_needed_dye": "2025-09-17 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-09-17 22:03:59 +0000"
     },
     "done": true
   },
@@ -3074,6 +3128,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-17 22:01:34 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-09-17 21:45:42 +0000"
@@ -3083,6 +3143,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-09-17 22:03:59 +0000"
     },
     "done": true
   },
@@ -3104,6 +3170,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-09-17 22:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2025-09-17 21:45:42 +0000"
@@ -3122,9 +3194,21 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-09-17 22:02:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-09-17 22:02:38 +0000"
     },
     "done": true
   },
@@ -3185,6 +3269,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-09-17 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-17 22:04:08 +0000"
     },
     "done": true
   },
@@ -3284,6 +3374,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-09-17 22:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-09-17 22:00:57 +0000"
@@ -3299,6 +3395,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2025-09-17 21:04:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-09-17 22:02:05 +0000"
     },
     "done": true
   },
@@ -3323,6 +3425,12 @@
   "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
       "has_needed_dye": "2025-09-17 21:32:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-09-17 22:03:59 +0000"
     },
     "done": true
   },

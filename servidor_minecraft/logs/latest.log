@@ -607,3 +607,43 @@ java.lang.IllegalStateException: not found
 [17Sep2025 21:48:51.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported Frank3033 to iDaless]
 [17Sep2025 22:02:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Bonk!]
 [17Sep2025 22:03:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 22:03:35.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[17Sep2025 22:04:45.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> eu
+[17Sep2025 22:05:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> a
+[17Sep2025 22:05:10.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> ojala y le de sida
+[17Sep2025 22:05:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> XD
+[17Sep2025 22:06:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> van a grabar
+[17Sep2025 22:06:06.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> ekisd
+[17Sep2025 22:06:06.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDaless> ti
+[17Sep2025 22:06:10.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDaless> pero luego me da pereza ver xd
+[17Sep2025 22:06:11.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> si los escucho
+[17Sep2025 22:06:14.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> fr
+[17Sep2025 22:06:54.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> q me miras mmwb
+[17Sep2025 22:07:59.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> q paso cuando se expandio tan rapido XD
+[17Sep2025 22:08:07.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> fr
+[17Sep2025 22:08:41.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> los demas son nub
+[17Sep2025 22:08:47.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> XDD
+[17Sep2025 22:09:04.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> moran rompe esas flores q estan ahi
+[17Sep2025 22:09:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> esas generan cosas
+[17Sep2025 22:09:34.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has succumbed to the infection
+[17Sep2025 22:09:34.966] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_17.09.2025-22.09.34.dat
+[17Sep2025 22:09:34.966] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 83 Y: 68.0 Z: 888
+[17Sep2025 22:09:34.966] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 628f7f51-f6a0-48f6-bacf-988d464c5fb1
+[17Sep2025 22:09:36.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/135752, l='ServerLevel[world]', x=83.30, y=68.00, z=888.43] died: Sahankiel071727 was shot by Frank3033
+[17Sep2025 22:09:36.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[17Sep2025 22:09:36.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[17Sep2025 22:09:40.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> XDD
+[17Sep2025 22:09:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> ti
+[17Sep2025 22:11:20.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> y el satelite?
+[17Sep2025 22:11:52.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 fell from a high place
+[17Sep2025 22:11:52.769] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_17.09.2025-22.11.52.dat
+[17Sep2025 22:11:52.769] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 97 Y: 70.0 Z: 950
+[17Sep2025 22:11:52.769] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 6b68bf40-fc04-4cf9-85c9-20d94127157c
+[17Sep2025 22:11:54.362] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[17Sep2025 22:11:54.362] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[17Sep2025 22:11:55.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> a
+[17Sep2025 22:12:03.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> parece q si es una entidad
+[17Sep2025 22:12:06.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> es como un huevo
+[17Sep2025 22:12:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> aja xq cayo algo
+[17Sep2025 22:12:24.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> no
+[17Sep2025 22:12:38.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
