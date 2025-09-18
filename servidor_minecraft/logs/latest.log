@@ -692,3 +692,128 @@ java.lang.IllegalStateException: not found
 [18Sep2025 18:38:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
 [18Sep2025 18:41:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [What a Deal!]
 [18Sep2025 18:41:46.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 18:47:17.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[18Sep2025 18:47:17.646] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.skeleton_18.09.2025-18.47.17.dat
+[18Sep2025 18:47:17.646] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 111 Y: 87.5 Z: 925
+[18Sep2025 18:47:17.646] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is aad5896a-4cf2-4a03-8b30-9769861169a9
+[18Sep2025 18:47:19.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[18Sep2025 18:47:19.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[18Sep2025 18:48:05.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[18Sep2025 18:48:05.289] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 38ad36b6-776c-4f52-bdd5-8b0839ae64ee
+[18Sep2025 18:48:06.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/169137, l='ServerLevel[world]', x=110.96, y=93.00, z=931.28] died: iDaless was shot by Frank3033
+[18Sep2025 18:48:06.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[18Sep2025 18:48:06.940] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[18Sep2025 18:48:20.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/168333, l='ServerLevel[world]', x=130.56, y=72.00, z=919.20] died: iDaless was shot by Frank3033
+[18Sep2025 18:50:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 18:52:52.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 18:52:53.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [What a Deal!]
+[18Sep2025 18:53:33.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=71, z=884} BlockPos{x=151, y=70, z=884}
+[18Sep2025 18:53:41.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Sahankiel071727]
+[18Sep2025 18:54:38.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 burned to death
+[18Sep2025 18:54:38.839] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-18.54.38.dat
+[18Sep2025 18:54:38.839] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 151 Y: 68.7531999805212 Z: 878
+[18Sep2025 18:54:38.839] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 34fa1248-937f-40d1-9d7d-cb788c7b8f31
+[18Sep2025 18:54:40.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 18:54:40.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 18:54:41.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 151.500000, 68.500000, 880.500000]
+[18Sep2025 18:55:05.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by Infected Human
+[18Sep2025 18:55:05.888] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 745fb1f3-dd94-4ef7-ba57-6e3cfcb8e85b
+[18Sep2025 18:55:07.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 18:55:07.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 18:55:09.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 153.500000, 70.500000, 864.500000]
+[18Sep2025 18:55:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 18:55:46.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 18:55:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 18:56:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
+[18Sep2025 18:56:22.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 18:57:06.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 18:57:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 18:58:08.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 18:58:50.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:02:24.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:02:29.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:03:00.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=75, z=922} BlockPos{x=77, y=74, z=921}
+[18Sep2025 19:03:08.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=69, z=886} BlockPos{x=72, y=69, z=884}
+[18Sep2025 19:03:09.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=70, z=883} BlockPos{x=72, y=69, z=884}
+[18Sep2025 19:03:38.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=65, z=869} BlockPos{x=85, y=65, z=870}
+[18Sep2025 19:04:13.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=69, z=883} BlockPos{x=150, y=68, z=882}
+[18Sep2025 19:04:15.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/131373, l='ServerLevel[world]', x=86.52, y=106.00, z=1006.48] died, message: 'Fletcher was fungi-fied by Infected Human'
+[18Sep2025 19:04:16.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=71, z=888} BlockPos{x=148, y=70, z=889}
+[18Sep2025 19:05:15.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=74, z=933} BlockPos{x=107, y=73, z=934}
+[18Sep2025 19:05:18.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=72, z=945} BlockPos{x=104, y=72, z=943}
+[18Sep2025 19:06:27.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=69, z=896} BlockPos{x=174, y=68, z=897}
+[18Sep2025 19:06:49.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=71, z=923} BlockPos{x=181, y=70, z=922}
+[18Sep2025 19:09:13.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:09:36.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=70, z=968} BlockPos{x=107, y=69, z=968}
+[18Sep2025 19:09:37.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:09:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:09:42.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:10:09.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=59, y=77, z=920} BlockPos{x=57, y=77, z=920}
+[18Sep2025 19:10:29.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:10:30.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was slain by Usurper
+[18Sep2025 19:10:30.349] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-19.10.30.dat
+[18Sep2025 19:10:30.349] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 55 Y: 73.0 Z: 903
+[18Sep2025 19:10:30.349] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is c334d67c-0377-426a-9a80-bf378713cbf8
+[18Sep2025 19:10:31.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:10:31.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 19:10:31.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 19:10:34.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 55.500000, 73.500000, 902.500000]
+[18Sep2025 19:11:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set the time to 1000]
+[18Sep2025 19:12:47.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was slain by Usurper
+[18Sep2025 19:12:47.703] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-19.12.47.dat
+[18Sep2025 19:12:47.703] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 100 Y: 65.79673560066871 Z: 801
+[18Sep2025 19:12:47.703] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is b02610be-9317-4ace-aecc-013af94ad884
+[18Sep2025 19:12:48.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 19:12:48.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 19:12:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 100.500000, 65.500000, 803.500000]
+[18Sep2025 19:14:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 19:15:12.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 19:17:40.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 19:18:34.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[18Sep2025 19:19:03.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:19:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 19:19:46.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:19:55.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 19:20:02.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:20:06.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 19:20:25.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 19:20:25.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:20:36.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/191051, l='ServerLevel[world]', x=8.64, y=20.00, z=917.30] died: The_Harbinger69 fell from a high place
+[18Sep2025 19:22:51.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 19:23:42.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Local Ice Age]
+[18Sep2025 19:27:14.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=30, z=794} BlockPos{x=128, y=29, z=794}
+[18Sep2025 19:28:18.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Forced Abortion]
+[18Sep2025 19:29:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [PTSD]
+[18Sep2025 19:29:03.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was eaten by Howitzer
+[18Sep2025 19:29:03.715] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.diamond_18.09.2025-19.29.03.dat
+[18Sep2025 19:29:03.715] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 129 Y: 24.0 Z: 771
+[18Sep2025 19:29:03.715] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is d120dbf3-0fb3-4b05-8553-add333fb62b9
+[18Sep2025 19:29:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [PTSD]
+[18Sep2025 19:29:03.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten by Howitzer
+[18Sep2025 19:29:03.739] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-19.29.03.dat
+[18Sep2025 19:29:03.739] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 128 Y: 26.0 Z: 770
+[18Sep2025 19:29:03.739] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 94dde193-9e28-4c42-97c6-b75b52f44cc9
+[18Sep2025 19:29:05.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 19:29:05.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 19:29:07.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 127.500000, 21.500000, 773.500000]
+[18Sep2025 19:29:09.089] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[18Sep2025 19:29:09.089] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[18Sep2025 19:29:12.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 19:29:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 19:29:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:29:27.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 19:29:32.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 19:29:45.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Something Once Great...]
+[18Sep2025 19:30:43.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Something Once Great...]
+[18Sep2025 19:31:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 19:31:48.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 104.500000, 106.500000, 975.500000]
+[18Sep2025 19:32:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was slain by Usurper
+[18Sep2025 19:32:11.361] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-19.32.11.dat
+[18Sep2025 19:32:11.361] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 115 Y: 60.2 Z: 851
+[18Sep2025 19:32:11.361] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is ca0c48be-d9ec-4a5f-ba8a-6caa17d6815f
+[18Sep2025 19:32:13.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 19:32:13.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 19:32:27.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 19:33:05.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 19:33:10.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 19:33:11.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
