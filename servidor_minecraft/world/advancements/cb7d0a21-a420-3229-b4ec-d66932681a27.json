@@ -797,7 +797,9 @@
       "cooked_mutton": "2025-09-17 18:17:44 +0000",
       "cooked_beef": "2025-09-17 03:04:57 +0000",
       "bread": "2025-09-17 03:17:17 +0000",
-      "golden_apple": "2025-09-18 05:24:16 +0000"
+      "golden_apple": "2025-09-18 05:24:16 +0000",
+      "cooked_chicken": "2025-09-18 16:41:39 +0000",
+      "carrot": "2025-09-18 16:40:27 +0000"
     },
     "done": false
   },
@@ -964,6 +966,7 @@
       "minecraft:ghast": "2025-09-18 00:09:51 +0000",
       "minecraft:spider": "2025-09-17 03:37:16 +0000",
       "minecraft:creeper": "2025-09-17 03:29:44 +0000",
+      "minecraft:phantom": "2025-09-18 16:28:27 +0000",
       "minecraft:cave_spider": "2025-09-17 19:22:37 +0000",
       "minecraft:piglin": "2025-09-18 00:11:31 +0000",
       "minecraft:enderman": "2025-09-17 19:17:35 +0000",
@@ -5052,9 +5055,21 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-09-18 16:42:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-09-18 16:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-18 16:48:58 +0000"
     },
     "done": true
   },
