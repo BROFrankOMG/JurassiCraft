@@ -11572,3 +11572,42 @@ java.lang.IllegalStateException: not found
 [18Sep2025 23:44:31.151] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
 [18Sep2025 23:44:31.151] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
 [18Sep2025 23:44:31.154] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758239071154
+[18Sep2025 23:47:58.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 23:47:58.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 23:50:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has succumbed to the infection
+[18Sep2025 23:50:52.239] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-23.50.52.dat
+[18Sep2025 23:50:52.239] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 80 Y: 70.0 Z: 959
+[18Sep2025 23:50:52.239] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is d850476a-6998-403b-acf0-32703f534034
+[18Sep2025 23:50:53.878] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758239453877
+[18Sep2025 23:50:53.878] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 23:50:53.878] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 23:51:43.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has succumbed to the infection
+[18Sep2025 23:51:43.402] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-23.51.43.dat
+[18Sep2025 23:51:43.402] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 68 Y: 65.0 Z: 990
+[18Sep2025 23:51:43.402] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is befeccf8-f167-45e2-ab4d-a7a0a4e54ebd
+[18Sep2025 23:51:45.841] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 23:51:45.841] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 23:51:45.849] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758239505849
+[18Sep2025 23:52:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[18Sep2025 23:52:56.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/366387, l='ServerLevel[world]', x=91.85, y=71.00, z=950.53] died: Sahankiel071727 was slain by Frank3033
+[18Sep2025 23:52:58.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 23:52:58.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 23:53:16.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=74, z=933} BlockPos{x=106, y=73, z=933}
+[18Sep2025 23:53:52.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was killed trying to hurt Verdathorn
+[18Sep2025 23:53:52.952] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-23.53.52.dat
+[18Sep2025 23:53:52.952] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 97 Y: 69.54233000445366 Z: 891
+[18Sep2025 23:53:52.952] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 09545dd8-6f0c-4369-af7a-99f4b22d1185
+[18Sep2025 23:53:54.789] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758239634786
+[18Sep2025 23:53:54.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 23:53:54.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 23:53:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 97.500000, 69.500000, 891.500000]
+[18Sep2025 23:54:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has succumbed to the infection
+[18Sep2025 23:54:20.489] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is aeac742a-3e24-48a0-8944-8ecd77965541
+[18Sep2025 23:54:21.837] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758239661793
+[18Sep2025 23:54:21.838] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 23:54:21.838] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 23:54:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 23:54:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 95.500000, 71.500000, 895.500000]
+[18Sep2025 23:54:30.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/369372, l='ServerLevel[world]', x=93.49, y=68.00, z=888.35] died: Frank3033 was slain by Frank3033
+[18Sep2025 23:54:44.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 23:54:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
