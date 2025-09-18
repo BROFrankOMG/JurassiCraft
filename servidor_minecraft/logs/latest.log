@@ -1179,3 +1179,55 @@ java.lang.IllegalStateException: not found
 [18Sep2025 22:39:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Summoned new Unemployed]
 [18Sep2025 22:41:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Summoned new Cat]
 [18Sep2025 22:47:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 22:57:56.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[18Sep2025 23:00:30.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 23:01:13.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[18Sep2025 23:03:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was slain by Infected Villager
+[18Sep2025 23:03:39.343] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-23.03.39.dat
+[18Sep2025 23:03:39.343] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 113 Y: 106.0 Z: 983
+[18Sep2025 23:03:39.343] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is e0258dc5-6a1c-45d6-a4c2-c7f26b77712d
+[18Sep2025 23:03:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 23:09:56.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
+[18Sep2025 23:10:14.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Frank3033 to Sahankiel071727]
+[18Sep2025 23:10:16.526] [ForkJoinPool.commonPool-worker-54/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:brussedefrank'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md73bbe5$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md73bbe5$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18Sep2025 23:10:16.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brussedefrank[/127.100.138.48:33985] logged in with entity id 342568 at (115.44832088610158, 106.0, 959.0020415584481)
+[18Sep2025 23:10:16.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brussedefrank joined the game
+[18Sep2025 23:10:16.591] [Server thread/INFO] [Jade/]: Syncing config to brussedefrank (b2ab77e5-965c-388a-9ff5-888820beea04)
+[18Sep2025 23:10:17.039] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b2ab77e5-965c-388a-9ff5-888820beea04 was loaded
+[18Sep2025 23:10:17.040] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [brussedefrank]
+[18Sep2025 23:10:17.040] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [brussedefrank]
+[18Sep2025 23:10:27.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[18Sep2025 23:11:39.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brussedefrank lost connection: Disconnected
+[18Sep2025 23:11:39.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brussedefrank left the game
+[18Sep2025 23:11:39.681] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b2ab77e5-965c-388a-9ff5-888820beea04 was unloaded
+[18Sep2025 23:13:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 23:13:59.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Spectator Mode]
+[18Sep2025 23:14:01.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 23:14:04.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[18Sep2025 23:18:05.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported iDaless to Sahankiel071727]
+[18Sep2025 23:20:04.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Timed out
+[18Sep2025 23:20:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
+[18Sep2025 23:23:41.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:51185] logged in with entity id 349728 at (103.1709226651768, 106.5625, 986.0380350393243)
+[18Sep2025 23:23:41.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[18Sep2025 23:23:41.945] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[18Sep2025 23:23:50.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 23:23:50.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 23:25:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set the time to 1000]
