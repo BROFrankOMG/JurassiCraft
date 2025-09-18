@@ -656,3 +656,39 @@ java.lang.IllegalStateException: not found
 [18Sep2025 18:21:44.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
 [18Sep2025 18:21:44.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
 [18Sep2025 18:21:44.877] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
+[18Sep2025 18:32:41.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:50231] logged in with entity id 159279 at (111.02949512171323, 77.5, 915.9540891009365)
+[18Sep2025 18:32:41.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[18Sep2025 18:32:41.145] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[18Sep2025 18:32:41.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[18Sep2025 18:32:41.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 18:32:41.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 18:33:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Frank3033 to Sahankiel071727]
+[18Sep2025 18:35:16.053] [ForkJoinPool.commonPool-worker-27/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:iDaless'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md73bbe5$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md73bbe5$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18Sep2025 18:35:16.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDaless[/127.66.7.97:60561] logged in with entity id 160518 at (104.94999998807907, 106.0, 983.9882331338085)
+[18Sep2025 18:35:16.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless joined the game
+[18Sep2025 18:35:16.157] [Server thread/INFO] [Jade/]: Syncing config to iDaless (151440db-f066-3ec3-aa0e-6bb692afb601)
+[18Sep2025 18:35:16.342] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 151440db-f066-3ec3-aa0e-6bb692afb601 was loaded
+[18Sep2025 18:35:16.343] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[18Sep2025 18:35:16.343] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[18Sep2025 18:38:28.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [What a Deal!]
+[18Sep2025 18:38:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 18:41:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [What a Deal!]
+[18Sep2025 18:41:46.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]

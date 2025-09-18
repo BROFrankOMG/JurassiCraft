@@ -4787,21 +4787,51 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "has_item": "2025-09-18 17:12:56 +0000"
+      "has_bone_block": "2025-09-18 16:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-18 16:31:00 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-09-18 16:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-18 16:41:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-18 16:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-18 16:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-18 16:41:20 +0000"
     },
     "done": true
   },
   "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
     },
     "done": true
   },
@@ -4814,6 +4844,84 @@
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-09-18 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
     },
     "done": true
   },
@@ -4835,51 +4943,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-09-18 16:41:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/placard": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-09-18 17:12:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/brass_hand": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/brass_tunnel": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-09-18 17:12:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-09-18 16:24:50 +0000"
     },
     "done": true
   },
@@ -4895,63 +4961,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/brass_funnel": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-09-18 17:12:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-09-18 17:12:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
     },
     "done": true
   },
-  "create:brass": {
-    "criteria": {
-      "0": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-09-18 17:12:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-09-18 18:01:25 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
     },
     "done": true
   },
@@ -4967,12 +4985,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/attribute_filter": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
@@ -4982,12 +4994,6 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
     },
     "done": true
   },
@@ -5015,45 +5021,45 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/flywheel": {
-    "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blaze": {
-    "criteria": {
-      "has_blaze_rod": "2025-09-18 16:41:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-09-18 16:41:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-09-18 16:46:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "has_item": "2025-09-18 16:46:02 +0000"
+      "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
-      "has_cobbled_deepslate_slab": "2025-09-18 17:19:45 +0000"
+      "has_copper_block": "2025-09-18 17:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-09-18 17:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-18 17:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-09-18 17:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-09-18 17:12:53 +0000"
     },
     "done": true
   },
@@ -5063,27 +5069,27 @@
     },
     "done": true
   },
-  "create:burner": {
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
     "criteria": {
-      "0": "2025-09-18 16:40:17 +0000"
+      "has_item": "2025-09-18 17:12:56 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
-      "fortress": "2025-09-18 16:31:00 +0000"
+      "has_cobbled_deepslate_slab": "2025-09-18 17:19:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_blaze_rod": "2025-09-18 16:41:20 +0000"
+      "lava_bucket": "2025-09-18 18:01:25 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_stone_types_calcite": "2025-09-18 16:50:33 +0000"
+      "traded": "2025-09-18 18:38:28 +0000"
     },
     "done": true
   },
