@@ -451,3 +451,29 @@ java.lang.IllegalStateException: not found
 [18Sep2025 06:40:47.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
 [18Sep2025 06:40:47.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 left the game
 [18Sep2025 06:40:47.084] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was unloaded
+[18Sep2025 06:42:56.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:36393] logged in with entity id 36096 at (115.75504945313389, 74.0, 932.5069098493359)
+[18Sep2025 06:42:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[18Sep2025 06:42:56.212] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[18Sep2025 06:42:59.039] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[18Sep2025 06:42:59.039] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 06:42:59.039] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 06:43:47.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved too quickly! 10.01508946182031,-1.0,-1.598309787310427
+[18Sep2025 06:44:32.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 06:45:37.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 06:46:51.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:42969] logged in with entity id 38575 at (111.4551547348696, 106.0, 945.6785069966792)
+[18Sep2025 06:46:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
+[18Sep2025 06:46:51.497] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
+[18Sep2025 06:46:52.065] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
+[18Sep2025 06:46:52.065] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 06:46:52.065] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 06:52:18.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has succumbed to the infection
+[18Sep2025 06:52:18.326] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-06.52.18.dat
+[18Sep2025 06:52:18.326] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 90 Y: 64.0 Z: 860
+[18Sep2025 06:52:18.326] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is e98cd228-fa68-401a-9197-ad63759cda44
+[18Sep2025 06:52:19.915] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 06:52:19.916] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 06:52:21.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/41557, l='ServerLevel[world]', x=92.15, y=64.00, z=859.49] died: Sahankiel071727 froze to death
+[18Sep2025 06:53:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Sahankiel071727 to Frank3033]
+[18Sep2025 06:57:06.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 06:57:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[18Sep2025 07:00:22.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved wrongly!
