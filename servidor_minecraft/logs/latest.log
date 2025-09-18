@@ -1,103 +1,103 @@
-[18Sep2025 04:05:45.787] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[18Sep2025 04:05:45.791] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[18Sep2025 04:05:46.584] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[18Sep2025 04:05:46.599] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[18Sep2025 04:05:46.600] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/JurassiCraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23137!/
-[18Sep2025 04:05:46.609] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/JurassiCraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[18Sep2025 04:05:46.612] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[18Sep2025 04:05:46.691] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/JurassiCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[18Sep2025 04:05:46.704] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[18Sep2025 04:05:47.175] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[18Sep2025 04:05:47.177] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Sep2025 04:05:47.180] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Sep2025 04:05:47.182] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Sep2025 04:05:47.696] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[18Sep2025 04:05:47.697] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[18Sep2025 04:05:48.412] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[18Sep2025 04:05:48.429] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[18Sep2025 04:05:49.229] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[18Sep2025 04:05:50.779] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Sep2025 04:05:50.896] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18Sep2025 04:05:52.419] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18Sep2025 04:06:02.464] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[18Sep2025 04:06:02.489] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[18Sep2025 04:06:02.529] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
-[18Sep2025 04:06:03.038] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[18Sep2025 04:06:03.038] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[18Sep2025 04:06:03.324] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
-[18Sep2025 04:06:03.547] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[18Sep2025 04:06:03.548] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
-[18Sep2025 04:06:03.554] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
-[18Sep2025 04:06:03.556] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[18Sep2025 04:06:03.686] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[18Sep2025 04:06:03.779] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[18Sep2025 04:06:03.779] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[18Sep2025 04:06:03.780] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[18Sep2025 04:06:03.784] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[18Sep2025 04:06:03.785] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[18Sep2025 04:06:03.785] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[18Sep2025 04:06:03.785] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[18Sep2025 04:06:03.787] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[18Sep2025 04:06:03.790] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[18Sep2025 04:06:03.791] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[18Sep2025 04:06:03.792] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[18Sep2025 04:06:03.800] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[18Sep2025 04:06:03.800] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[18Sep2025 04:06:07.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Spitter from class com.Harbinger.Spore.Sentities.EvolvedInfected.Howler
-[18Sep2025 04:06:07.692] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
-[18Sep2025 04:06:07.694] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Vigil
-[18Sep2025 04:06:07.695] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
-[18Sep2025 04:06:07.696] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
-[18Sep2025 04:06:07.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[18Sep2025 04:06:07.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.40 Target: null
-[18Sep2025 04:06:07.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Sep2025 04:06:07.962] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[18Sep2025 04:06:07.963] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[18Sep2025 04:06:07.963] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[18Sep2025 04:06:07.963] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[18Sep2025 04:06:07.964] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[18Sep2025 04:06:07.964] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[18Sep2025 04:06:07.964] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[18Sep2025 04:06:07.965] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[18Sep2025 04:06:07.965] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[18Sep2025 04:06:07.987] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[18Sep2025 04:06:07.988] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[18Sep2025 04:06:07.992] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[18Sep2025 04:06:07.993] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[18Sep2025 04:06:08.084] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[18Sep2025 04:06:08.085] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[18Sep2025 04:06:08.086] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[18Sep2025 04:06:08.087] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[18Sep2025 04:06:08.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[18Sep2025 04:06:08.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[18Sep2025 04:06:08.239] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[18Sep2025 04:06:08.249] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[18Sep2025 04:06:08.251] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[18Sep2025 04:06:08.268] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[18Sep2025 04:06:08.275] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[18Sep2025 04:06:08.281] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[18Sep2025 04:06:08.340] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
-[18Sep2025 04:06:08.342] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[18Sep2025 04:06:08.351] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[18Sep2025 04:06:08.364] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[18Sep2025 04:06:08.365] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[18Sep2025 04:06:08.367] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[18Sep2025 04:06:08.395] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[18Sep2025 04:06:08.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.33 Target: null
-[18Sep2025 04:06:08.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[18Sep2025 04:06:08.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.7.0-alpha.2 Target: null
-[18Sep2025 04:06:08.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
-[18Sep2025 04:06:08.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: UP_TO_DATE Current: 3.22.0-alpha.5 Target: null
-[18Sep2025 04:06:10.678] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Sep2025 04:06:12.390] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
-[18Sep2025 04:06:12.391] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
-[18Sep2025 04:06:12.485] [main/INFO] [com.simibubi.create.Create/]: Created 159 recipes which will be injected into the game
-[18Sep2025 04:06:12.498] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
-[18Sep2025 04:06:17.143] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/JurassiCraft/servidor_minecraft/tacz
-[18Sep2025 04:06:17.144] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[18Sep2025 04:06:17.145] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[18Sep2025 04:06:17.726] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[18Sep2025 04:06:19.590] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+[18Sep2025 05:51:08.038] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18Sep2025 05:51:08.042] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[18Sep2025 05:51:09.507] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18Sep2025 05:51:09.518] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[18Sep2025 05:51:09.519] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/JurassiCraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23137!/
+[18Sep2025 05:51:09.525] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/JurassiCraft/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[18Sep2025 05:51:09.527] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[18Sep2025 05:51:09.582] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/JurassiCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18Sep2025 05:51:09.593] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[18Sep2025 05:51:09.856] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 05:51:09.858] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 05:51:09.859] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 05:51:09.860] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 05:51:10.217] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[18Sep2025 05:51:10.219] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[18Sep2025 05:51:10.806] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[18Sep2025 05:51:10.812] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[18Sep2025 05:51:11.455] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[18Sep2025 05:51:12.464] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Sep2025 05:51:12.555] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18Sep2025 05:51:13.548] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18Sep2025 05:51:20.412] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[18Sep2025 05:51:20.447] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[18Sep2025 05:51:20.574] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[18Sep2025 05:51:21.164] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[18Sep2025 05:51:21.164] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[18Sep2025 05:51:21.247] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[18Sep2025 05:51:21.445] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[18Sep2025 05:51:21.446] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[18Sep2025 05:51:21.451] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[18Sep2025 05:51:21.455] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[18Sep2025 05:51:21.663] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[18Sep2025 05:51:21.731] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[18Sep2025 05:51:21.732] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[18Sep2025 05:51:21.740] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[18Sep2025 05:51:21.740] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[18Sep2025 05:51:21.740] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[18Sep2025 05:51:21.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[18Sep2025 05:51:21.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[18Sep2025 05:51:21.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[18Sep2025 05:51:21.744] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[18Sep2025 05:51:21.746] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[18Sep2025 05:51:21.746] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[18Sep2025 05:51:21.746] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[18Sep2025 05:51:21.755] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[18Sep2025 05:51:25.259] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Spitter from class com.Harbinger.Spore.Sentities.EvolvedInfected.Howler
+[18Sep2025 05:51:25.260] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
+[18Sep2025 05:51:25.261] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Vigil
+[18Sep2025 05:51:25.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
+[18Sep2025 05:51:25.263] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[18Sep2025 05:51:25.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[18Sep2025 05:51:25.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.40 Target: null
+[18Sep2025 05:51:25.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Sep2025 05:51:25.535] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[18Sep2025 05:51:25.535] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[18Sep2025 05:51:25.536] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[18Sep2025 05:51:25.536] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[18Sep2025 05:51:25.536] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[18Sep2025 05:51:25.536] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[18Sep2025 05:51:25.536] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[18Sep2025 05:51:25.536] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[18Sep2025 05:51:25.537] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[18Sep2025 05:51:25.557] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[18Sep2025 05:51:25.557] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[18Sep2025 05:51:25.562] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[18Sep2025 05:51:25.562] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[18Sep2025 05:51:25.661] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18Sep2025 05:51:25.660] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[18Sep2025 05:51:25.663] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18Sep2025 05:51:25.663] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18Sep2025 05:51:25.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[18Sep2025 05:51:25.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[18Sep2025 05:51:25.727] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[18Sep2025 05:51:25.734] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[18Sep2025 05:51:25.735] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[18Sep2025 05:51:25.747] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[18Sep2025 05:51:25.751] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[18Sep2025 05:51:25.753] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[18Sep2025 05:51:25.795] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
+[18Sep2025 05:51:25.796] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[18Sep2025 05:51:25.805] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[18Sep2025 05:51:25.819] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[18Sep2025 05:51:25.819] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[18Sep2025 05:51:25.821] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[18Sep2025 05:51:25.905] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[18Sep2025 05:51:26.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.33 Target: null
+[18Sep2025 05:51:26.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[18Sep2025 05:51:26.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.7.0-alpha.2 Target: null
+[18Sep2025 05:51:26.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
+[18Sep2025 05:51:26.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: UP_TO_DATE Current: 3.22.0-alpha.5 Target: null
+[18Sep2025 05:51:28.315] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Sep2025 05:51:30.014] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[18Sep2025 05:51:30.015] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/JurassiCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[18Sep2025 05:51:30.116] [main/INFO] [com.simibubi.create.Create/]: Created 159 recipes which will be injected into the game
+[18Sep2025 05:51:30.125] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
+[18Sep2025 05:51:38.128] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/JurassiCraft/servidor_minecraft/tacz
+[18Sep2025 05:51:38.130] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[18Sep2025 05:51:38.130] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[18Sep2025 05:51:38.687] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[18Sep2025 05:51:40.385] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -149,8 +149,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[18Sep2025 04:06:19.675] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.715] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
+[18Sep2025 05:51:40.481] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.514] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -188,9 +188,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Sep2025 04:06:19.729] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.730] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.737] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
+[18Sep2025 05:51:40.528] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.529] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.536] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
@@ -223,59 +223,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Sep2025 04:06:19.747] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.753] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.755] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.766] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.776] [main/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (tacz_c:red_paper_mix) has more item inputs (12) than supported (9).
-[18Sep2025 04:06:19.785] [main/WARN] [com.simibubi.create.Create/]: Your custom create:compacting recipe (tacz_c:gunpowder_cylinder_compact) has more item inputs (10) than supported (9).
-[18Sep2025 04:06:19.786] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.788] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.794] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[18Sep2025 04:06:19.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
-[18Sep2025 04:06:19.941] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2633 advancements
-[18Sep2025 04:06:21.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[18Sep2025 04:06:21.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Sep2025 04:06:21.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Sep2025 04:06:21.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Sep2025 04:06:21.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Sep2025 04:06:21.816] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Sep2025 04:06:21.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Sep2025 04:06:21.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Sep2025 04:06:21.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Sep2025 04:06:21.895] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Sep2025 04:06:22.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Sep2025 04:06:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Sep2025 04:06:28.684] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:28.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:28.811] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:28.822] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:28.828] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:28.842] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:28.852] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:28.868] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:29.030] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Sep2025 04:06:29.526] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[18Sep2025 04:06:30.026] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[18Sep2025 04:06:30.319] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5294 ms
-[18Sep2025 04:06:30.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.411s)! For help, type "help"
-[18Sep2025 04:06:30.404] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Sep2025 04:06:30.412] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[18Sep2025 04:08:32.682] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[18Sep2025 04:08:32.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:33909] logged in with entity id 623 at (116.47156449795352, 106.0, 1004.1121630267804)
-[18Sep2025 04:08:32.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
-[18Sep2025 04:08:33.035] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
-[18Sep2025 04:08:33.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
-[18Sep2025 04:08:33.405] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 04:08:33.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 04:08:42.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
-[18Sep2025 04:08:42.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 left the game
-[18Sep2025 04:08:42.547] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was unloaded
-[18Sep2025 04:12:02.729] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79f87e33[id=<null>,name=iDaless,properties={},legacy=false] (/127.66.7.97:49579) lost connection: Disconnected
-[18Sep2025 04:12:38.226] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64c70d00[id=<null>,name=iDaless,properties={},legacy=false] (/127.66.7.97:51407) lost connection: Disconnected
-[18Sep2025 04:13:24.376] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bf143f9[id=<null>,name=iDaless,properties={},legacy=false] (/127.66.7.97:37345) lost connection: Disconnected
-[18Sep2025 04:13:43.633] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24b06e8a[id=<null>,name=iDaless,properties={},legacy=false] (/127.66.7.97:58213) lost connection: Disconnected
-[18Sep2025 04:13:53.419] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:iDaless'
+[18Sep2025 05:51:40.544] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.550] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.552] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.559] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.566] [main/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (tacz_c:red_paper_mix) has more item inputs (12) than supported (9).
+[18Sep2025 05:51:40.574] [main/WARN] [com.simibubi.create.Create/]: Your custom create:compacting recipe (tacz_c:gunpowder_cylinder_compact) has more item inputs (10) than supported (9).
+[18Sep2025 05:51:40.575] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.576] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.580] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[18Sep2025 05:51:40.586] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[18Sep2025 05:51:40.760] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2633 advancements
+[18Sep2025 05:51:42.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18Sep2025 05:51:42.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Sep2025 05:51:42.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Sep2025 05:51:42.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Sep2025 05:51:42.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Sep2025 05:51:42.612] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Sep2025 05:51:42.693] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Sep2025 05:51:42.693] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Sep2025 05:51:42.694] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Sep2025 05:51:42.694] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Sep2025 05:51:42.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Sep2025 05:51:43.117] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:43.326] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:43.565] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:43.655] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:43.718] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:43.810] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:43.980] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:44.134] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:44.214] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:44.291] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:44.370] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:44.541] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:46.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Sep2025 05:51:46.309] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:46.516] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Sep2025 05:51:50.247] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.291] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.299] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.349] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.381] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.397] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:50.607] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:51.103] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 05:51:51.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[18Sep2025 05:51:51.954] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5852 ms
+[18Sep2025 05:51:51.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.248s)! For help, type "help"
+[18Sep2025 05:51:52.003] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Sep2025 05:51:52.009] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[18Sep2025 05:51:54.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[18Sep2025 05:52:02.491] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Sep2025 05:52:02.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:34785] logged in with entity id 598 at (111.39583665157167, 106.0, 948.6043270405913)
+[18Sep2025 05:52:02.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[18Sep2025 05:52:03.124] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[18Sep2025 05:52:03.177] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[18Sep2025 05:52:03.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 05:52:03.179] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 05:52:16.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:39811] logged in with entity id 819 at (111.41236686395365, 106.0, 963.56628200477)
+[18Sep2025 05:52:16.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
+[18Sep2025 05:52:17.013] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
+[18Sep2025 05:52:17.180] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
+[18Sep2025 05:52:17.180] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 05:52:17.181] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 05:52:42.386] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@348bde04[id=<null>,name=iDaless,properties={},legacy=false] (/127.66.7.97:41177) lost connection: Disconnected
+[18Sep2025 05:52:53.687] [ForkJoinPool.commonPool-worker-1/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:iDaless'
 java.lang.IllegalStateException: not found
 	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
@@ -283,10 +299,10 @@ java.lang.IllegalStateException: not found
 	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
 	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
 	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdd0f1f1$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9af604$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
 	at java.util.Optional.map(Optional.java:260) ~[?:?]
 	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
-	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdd0f1f1$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md9af604$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -294,308 +310,50 @@ java.lang.IllegalStateException: not found
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[18Sep2025 04:13:53.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDaless[/127.66.7.97:37975] logged in with entity id 946 at (120.95172602031617, 106.0, 959.4730221284931)
-[18Sep2025 04:13:53.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless joined the game
-[18Sep2025 04:13:53.540] [Server thread/INFO] [Jade/]: Syncing config to iDaless (151440db-f066-3ec3-aa0e-6bb692afb601)
-[18Sep2025 04:13:53.769] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 151440db-f066-3ec3-aa0e-6bb692afb601 was loaded
-[18Sep2025 04:13:53.770] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
-[18Sep2025 04:13:53.771] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
-[18Sep2025 04:15:14.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:42379] logged in with entity id 1976 at (116.47156449795352, 106.0, 1004.1121630267804)
-[18Sep2025 04:15:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
-[18Sep2025 04:15:14.293] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
-[18Sep2025 04:15:14.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
-[18Sep2025 04:15:14.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 04:15:14.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 04:18:31.140] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50fb13a2[id=<null>,name=Frank3033,properties={},legacy=false] (/127.63.248.189:47191) lost connection: Disconnected
-[18Sep2025 04:18:56.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:55791] logged in with entity id 4232 at (114.0888175269234, 94.17147918997821, 927.9499999880791)
-[18Sep2025 04:18:56.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
-[18Sep2025 04:18:56.758] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
-[18Sep2025 04:18:57.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
-[18Sep2025 04:18:57.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 04:18:57.540] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 04:19:40.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
-[18Sep2025 04:23:05.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
-[18Sep2025 04:27:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Frank3033 to Sahankiel071727]
-[18Sep2025 04:28:18.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
-[18Sep2025 04:28:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
-[18Sep2025 04:28:18.839] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
-[18Sep2025 04:32:48.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Who Said You Needed Starch?]
-[18Sep2025 04:33:34.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [A Seedy Place]
-[18Sep2025 04:33:54.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Anesthesia Not Required]
-[18Sep2025 04:35:03.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
-[18Sep2025 04:35:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 left the game
-[18Sep2025 04:35:03.337] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was unloaded
-[18Sep2025 04:35:10.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:37873] logged in with entity id 13660 at (109.96882554752744, 106.5625, 965.6873405714545)
-[18Sep2025 04:35:10.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
-[18Sep2025 04:35:10.574] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
-[18Sep2025 04:35:10.770] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
-[18Sep2025 04:35:10.771] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 04:35:10.771] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 04:36:10.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sahankiel071727 lost connection: Disconnected
-[18Sep2025 04:36:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 left the game
-[18Sep2025 04:36:10.793] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was unloaded
-[18Sep2025 04:38:02.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@169a6071[id=<null>,name=Frank3033,properties={},legacy=false] (/127.63.248.189:55045) lost connection: Disconnected
-[18Sep2025 04:38:25.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:46833] logged in with entity id 15187 at (103.41630742239651, 106.0, 970.1194362425675)
-[18Sep2025 04:38:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
-[18Sep2025 04:38:25.685] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
-[18Sep2025 04:38:27.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
-[18Sep2025 04:38:27.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 04:38:27.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 04:42:00.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sahankiel071727[/127.189.196.10:53271] logged in with entity id 17104 at (115.07051425527348, 106.0, 964.4474862790449)
-[18Sep2025 04:42:00.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 joined the game
-[18Sep2025 04:42:01.019] [Server thread/INFO] [Jade/]: Syncing config to Sahankiel071727 (d55d7538-5f23-3031-911c-6d368c91a231)
-[18Sep2025 04:42:01.472] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d55d7538-5f23-3031-911c-6d368c91a231 was loaded
-[18Sep2025 04:42:01.472] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 04:42:01.472] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 04:48:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
-[18Sep2025 04:55:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was eaten alive by Infected Human
-[18Sep2025 04:55:09.253] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-04.55.09.dat
-[18Sep2025 04:55:09.254] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 110 Y: 103.76636799395752 Z: 941
-[18Sep2025 04:55:09.255] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 75ff8506-dcd2-4cb3-b54a-89c02822e840
-[18Sep2025 04:55:11.017] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 04:55:11.018] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 04:55:18.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was eaten alive by Infected Human
-[18Sep2025 04:55:18.980] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 2e385909-94ca-4cf1-ada5-a25c97de317a
-[18Sep2025 04:55:20.521] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 04:55:20.522] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 04:55:22.539] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/25310, l='ServerLevel[world]', x=111.94, y=104.18, z=941.04] died: Sahankiel071727 was shot by iDaless
-[18Sep2025 04:55:26.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/25173, l='ServerLevel[world]', x=110.51, y=103.25, z=940.70] died: Sahankiel071727 was shot by iDaless
-[18Sep2025 04:57:56.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
-[18Sep2025 04:58:03.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
-[18Sep2025 04:58:09.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=654, y=100, z=1802} BlockPos{x=655, y=99, z=1801}
-[18Sep2025 04:58:09.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=654, y=100, z=1802} BlockPos{x=655, y=99, z=1801}
-[18Sep2025 04:58:09.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=654, y=100, z=1802} BlockPos{x=655, y=99, z=1801}
-[18Sep2025 04:59:05.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Discount Radar]
-[18Sep2025 04:59:16.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Scanning Time]
-[18Sep2025 04:59:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Who Said You Needed Starch?]
-[18Sep2025 04:59:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was eaten alive by Helldwin
-[18Sep2025 04:59:24.598] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-04.59.24.dat
-[18Sep2025 04:59:24.598] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 638 Y: 103.0 Z: 1781
-[18Sep2025 04:59:24.599] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 918171d9-2a97-4f9b-b220-77deff21170f
-[18Sep2025 04:59:26.774] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 04:59:26.775] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 04:59:29.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
-[18Sep2025 04:59:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to 638.500000, 103.500000, 1781.500000]
-[18Sep2025 05:00:10.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
-[18Sep2025 05:00:15.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDaless> xaero-waypoint:carcel:C:827:69:2347:10:false:0:Internal-overworld-waypoints
-[18Sep2025 05:00:16.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JWT114'/32579, l='ServerLevel[world]', x=651.24, y=99.00, z=1795.12] died: JWT114 was slain by Frank3033
-[18Sep2025 05:00:22.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/32381, l='ServerLevel[world]', x=650.71, y=103.00, z=1780.42] died: Sahankiel071727 was shot by Sahankiel071727
-[18Sep2025 05:00:27.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/31115, l='ServerLevel[world]', x=641.40, y=103.00, z=1781.59] died: ExeedingSky74 was shot by Sahankiel071727
-[18Sep2025 05:01:17.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/33452, l='ServerLevel[world]', x=640.63, y=103.00, z=1780.88] died: Nova69 was shot by Sahankiel071727
-[18Sep2025 05:01:22.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/35315, l='ServerLevel[world]', x=647.60, y=103.00, z=1794.49] died: WhisperFire26 was shot by Frank3033
-[18Sep2025 05:01:34.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/30170, l='ServerLevel[world]', x=652.26, y=103.00, z=1793.07] died: Helldwin was slain by Frank3033
-[18Sep2025 05:01:55.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Scanning Time]
-[18Sep2025 05:02:18.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/36676, l='ServerLevel[world]', x=644.73, y=104.02, z=1781.21] died: DawnsSlayers was shot by Sahankiel071727
-[18Sep2025 05:02:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Who Said You Needed Starch?]
-[18Sep2025 05:03:58.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to 827.500000, 69.500000, 2347.500000]
-[18Sep2025 05:04:04.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 827.500000, 69.500000, 2347.500000]
-[18Sep2025 05:04:58.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
-[18Sep2025 05:05:12.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/42082, l='ServerLevel[world]', x=887.50, y=91.80, z=2327.70] died: cheesepuff was shot by Sahankiel071727
-[18Sep2025 05:05:16.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/42328, l='ServerLevel[world]', x=877.63, y=91.00, z=2333.09] died: Entity was slain by Frank3033
-[18Sep2025 05:05:21.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
-[18Sep2025 05:05:25.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/42514, l='ServerLevel[world]', x=878.92, y=91.00, z=2331.79] died: Technoblade was slain by Frank3033
-[18Sep2025 05:05:27.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/42551, l='ServerLevel[world]', x=884.23, y=92.00, z=2323.99] died: Dany_Why was shot by Sahankiel071727
-[18Sep2025 05:06:06.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/42690, l='ServerLevel[world]', x=882.34, y=92.00, z=2324.15] died: TheCaramelGuy was shot by Sahankiel071727
-[18Sep2025 05:06:08.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Scanning Time]
-[18Sep2025 05:06:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was slain by ExeedingSky74
-[18Sep2025 05:06:08.949] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-05.06.08.dat
-[18Sep2025 05:06:08.949] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 877 Y: 91.0 Z: 2328
-[18Sep2025 05:06:08.950] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 6ea15ec4-4ab6-49b2-9446-77f87bd70cd1
-[18Sep2025 05:06:10.772] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 05:06:10.773] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 05:06:19.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/42873, l='ServerLevel[world]', x=882.75, y=93.88, z=2333.31] died: Sahankiel071727 was shot by Frank3033
-[18Sep2025 05:06:22.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to 877.500000, 91.500000, 2327.500000]
-[18Sep2025 05:06:27.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Atomiclbomb'/42786, l='ServerLevel[world]', x=881.70, y=92.25, z=2334.18] died: Atomiclbomb was shot by iDaless
-[18Sep2025 05:06:27.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/43330, l='ServerLevel[world]', x=880.69, y=91.00, z=2336.12] died: Nova69 was shot by Frank3033
-[18Sep2025 05:06:30.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/42849, l='ServerLevel[world]', x=880.20, y=91.63, z=2329.28] died: ExeedingSky74 was shot by iDaless
-[18Sep2025 05:06:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was eaten alive by Azami
-[18Sep2025 05:06:35.760] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 39231613-daa8-4503-a5ee-94234fc8fe66
-[18Sep2025 05:06:37.514] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 05:06:37.514] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 05:06:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to 877.500000, 91.500000, 2334.500000]
-[18Sep2025 05:06:50.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
-[18Sep2025 05:06:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
-[18Sep2025 05:07:00.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was burnt to a crisp whilst fighting Deyvid
-[18Sep2025 05:07:00.605] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-05.07.00.dat
-[18Sep2025 05:07:00.605] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 891 Y: 96.0 Z: 2328
-[18Sep2025 05:07:00.606] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 5f16f6ac-8a48-496d-8599-ebd6aac63982
-[18Sep2025 05:07:01.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/43408, l='ServerLevel[world]', x=892.03, y=92.25, z=2333.21] died: Belladonna was blown up by Creeper
-[18Sep2025 05:07:02.263] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 05:07:02.264] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 05:07:04.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 891.500000, 96.500000, 2328.500000]
-[18Sep2025 05:07:06.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/44173, l='ServerLevel[world]', x=877.92, y=91.00, z=2331.08] died: Ike was shot by Sahankiel071727
-[18Sep2025 05:07:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was fungi-fied by Infected Villager
-[18Sep2025 05:07:08.885] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is f41473b9-a561-443b-9a3d-28f243271bdf
-[18Sep2025 05:07:08.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/43797, l='ServerLevel[world]', x=878.88, y=91.75, z=2329.55] died: Deyvid was shot by Sahankiel071727
-[18Sep2025 05:07:10.759] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 05:07:10.759] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 05:07:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 892.500000, 97.500000, 2327.500000]
-[18Sep2025 05:07:18.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/43196, l='ServerLevel[world]', x=891.74, y=92.00, z=2331.57] died: Azami was shot by iDaless
-[18Sep2025 05:07:25.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/44280, l='ServerLevel[world]', x=891.38, y=97.00, z=2327.51] died: Frank3033 was slain by Frank3033
-[18Sep2025 05:07:26.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hank_o'/44680, l='ServerLevel[world]', x=887.67, y=93.00, z=2330.82] died: Hank_o was shot by iDaless
-[18Sep2025 05:07:37.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/44721, l='ServerLevel[world]', x=876.33, y=92.00, z=2322.20] died: Entity was slain by Sahankiel071727
-[18Sep2025 05:07:47.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/44774, l='ServerLevel[world]', x=875.47, y=91.00, z=2327.69] died: Mr_Door12323 was shot by Sahankiel071727
-[18Sep2025 05:08:00.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/44830, l='ServerLevel[world]', x=891.65, y=91.00, z=2355.26] died: ExeedingSky74 was shot by iDaless
-[18Sep2025 05:08:28.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/44976, l='ServerLevel[world]', x=886.96, y=91.00, z=2361.99] died: TVGuy was shot by iDaless
-[18Sep2025 05:08:32.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hank_o'/44829, l='ServerLevel[world]', x=887.29, y=91.00, z=2363.36] died: Hank_o was shot by iDaless
-[18Sep2025 05:08:45.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/45046, l='ServerLevel[world]', x=864.08, y=91.00, z=2357.26] died: Mr_Door12323 was shot by iDaless
-[18Sep2025 05:08:48.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/44873, l='ServerLevel[world]', x=883.51, y=107.00, z=2331.41] died: Entity was shot by Sahankiel071727
-[18Sep2025 05:09:03.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/45029, l='ServerLevel[world]', x=877.38, y=91.00, z=2336.79] died: Whisper was slain by Frank3033
-[18Sep2025 05:09:08.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dr_Pilot_MOO'/44962, l='ServerLevel[world]', x=892.42, y=92.30, z=2348.26] died: Dr_Pilot_MOO was slain by Frank3033
-[18Sep2025 05:09:16.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/45038, l='ServerLevel[world]', x=892.07, y=91.50, z=2349.99] died: Belladonna was burnt to a crisp whilst fighting Frank3033
-[18Sep2025 05:09:21.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NexouuZ'/45280, l='ServerLevel[world]', x=868.98, y=91.88, z=2365.60] died: NexouuZ was slain by iDaless
-[18Sep2025 05:09:23.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/45279, l='ServerLevel[world]', x=870.71, y=92.00, z=2365.70] died: Helldwin was shot by iDaless
-[18Sep2025 05:09:23.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/45149, l='ServerLevel[world]', x=889.19, y=91.00, z=2342.59] died: xXFuryXx was slain by Sahankiel071727
-[18Sep2025 05:09:25.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported iDaless to Frank3033]
-[18Sep2025 05:09:34.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ThatGardener'/45321, l='ServerLevel[world]', x=884.95, y=92.00, z=2349.28] died: ThatGardener was burnt to a crisp whilst fighting Frank3033
-[18Sep2025 05:09:40.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/45387, l='ServerLevel[world]', x=891.89, y=92.65, z=2355.70] died: That_Insane_Guy was slain by Frank3033
-[18Sep2025 05:10:03.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['gregTheTyrant'/45491, l='ServerLevel[world]', x=867.34, y=91.00, z=2358.90] died: gregTheTyrant was shot by iDaless
-[18Sep2025 05:10:16.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['lightigivhi'/45521, l='ServerLevel[world]', x=883.62, y=92.00, z=2362.07] died: lightigivhi was shot by Sahankiel071727
-[18Sep2025 05:10:57.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has made the advancement [Take Aim]
-[18Sep2025 05:11:00.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/45687, l='ServerLevel[world]', x=850.86, y=92.00, z=2358.09] died: TokenOni420 was shot by Sahankiel071727
-[18Sep2025 05:11:30.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/45831, l='ServerLevel[world]', x=880.37, y=91.00, z=2337.47] died: Keymind was shot by Frank3033
-[18Sep2025 05:11:33.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JWT114'/45839, l='ServerLevel[world]', x=882.30, y=91.00, z=2357.23] died: JWT114 was shot by iDaless
-[18Sep2025 05:11:56.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/45958, l='ServerLevel[world]', x=876.06, y=91.00, z=2333.61] died: That_Insane_Guy was shot by Sahankiel071727
-[18Sep2025 05:11:59.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/45959, l='ServerLevel[world]', x=879.58, y=91.63, z=2328.77] died: Nova69 was shot by Sahankiel071727
-[18Sep2025 05:12:04.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/46002, l='ServerLevel[world]', x=892.43, y=91.75, z=2324.45] died: Joker_de_Coeur was shot by Sahankiel071727
-[18Sep2025 05:12:05.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Atomiclbomb'/45891, l='ServerLevel[world]', x=885.42, y=91.00, z=2325.61] died: Atomiclbomb was slain by Frank3033
-[18Sep2025 05:12:19.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/46059, l='ServerLevel[world]', x=878.85, y=91.80, z=2337.70] died: Whisper was slain by iDaless
-[18Sep2025 05:12:31.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by cheesepuff
-[18Sep2025 05:12:31.301] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-05.12.31.dat
-[18Sep2025 05:12:31.302] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 879 Y: 91.0 Z: 2337
-[18Sep2025 05:12:31.302] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is 4a6440ba-5ee5-47fa-b8a0-37f8e254181f
-[18Sep2025 05:12:33.990] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 05:12:33.990] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 05:12:35.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 879.500000, 91.500000, 2338.500000]
-[18Sep2025 05:12:48.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/46134, l='ServerLevel[world]', x=878.08, y=92.00, z=2323.45] died: cheesepuff was shot by Sahankiel071727
-[18Sep2025 05:13:02.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/46543, l='ServerLevel[world]', x=876.30, y=92.87, z=2325.30] died: WhisperFire26 was slain by iDaless
-[18Sep2025 05:13:02.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/46130, l='ServerLevel[world]', x=875.62, y=93.17, z=2321.29] died: Mad_Dog was shot by Sahankiel071727
-[18Sep2025 05:13:09.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/46602, l='ServerLevel[world]', x=882.52, y=91.00, z=2336.00] died: Ripley was slain by Frank3033
-[18Sep2025 05:13:13.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/46632, l='ServerLevel[world]', x=884.61, y=91.00, z=2325.50] died: xXFuryXx was shot by iDaless
-[18Sep2025 05:13:16.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/46701, l='ServerLevel[world]', x=875.40, y=91.00, z=2336.67] died: LoneGuy was slain by Frank3033
-[18Sep2025 05:13:54.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NexouuZ'/46768, l='ServerLevel[world]', x=892.70, y=88.77, z=2328.95] died: NexouuZ was slain by Frank3033
-[18Sep2025 05:14:11.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/46908, l='ServerLevel[world]', x=892.51, y=85.00, z=2333.38] died: TheCaramelGuy was slain by iDaless
-[18Sep2025 05:14:12.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was eaten alive by Mad_Dog
-[18Sep2025 05:14:12.499] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-05.14.12.dat
-[18Sep2025 05:14:12.499] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 892 Y: 91.0 Z: 2326
-[18Sep2025 05:14:12.499] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 1400e19e-342c-4726-9598-36440fcf7862
-[18Sep2025 05:14:14.330] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 05:14:14.332] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 05:14:22.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to 892.500000, 91.500000, 2325.500000]
-[18Sep2025 05:14:26.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/46870, l='ServerLevel[world]', x=892.46, y=87.00, z=2332.56] died: Mad_Dog was slain by iDaless
-[18Sep2025 05:14:26.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/47220, l='ServerLevel[world]', x=892.70, y=87.39, z=2332.70] died: That_Insane_Guy was slain by iDaless
-[18Sep2025 05:14:26.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/46763, l='ServerLevel[world]', x=885.20, y=85.10, z=2334.60] died: DawnsSlayers was blown up by Infected Scientist
-[18Sep2025 05:14:27.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/46933, l='ServerLevel[world]', x=892.51, y=87.00, z=2332.49] died: Sahankiel071727 was slain by iDaless
-[18Sep2025 05:14:36.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/47221, l='ServerLevel[world]', x=892.69, y=86.50, z=2330.90] died: Ike was shot by Sahankiel071727
-[18Sep2025 05:14:37.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/45084, l='ServerLevel[world]', x=887.90, y=85.00, z=2335.84] died: TheCaramelGuy was slain by iDaless
-[18Sep2025 05:14:55.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/47340, l='ServerLevel[world]', x=892.45, y=85.00, z=2338.70] died: ABucketOfFriedChicken was slain by Frank3033
-[18Sep2025 05:15:03.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/45071, l='ServerLevel[world]', x=872.11, y=85.00, z=2360.68] died: WhisperFire26 died
-[18Sep2025 05:15:09.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/45076, l='ServerLevel[world]', x=873.51, y=85.02, z=2360.30] died: Sire_AwfulThe1st died
-[18Sep2025 05:15:10.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Take Aim]
-[18Sep2025 05:15:16.139] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/47312, l='ServerLevel[world]', x=885.70, y=85.00, z=2334.70] died: Deyvid was slain by iDaless
-[18Sep2025 05:15:20.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/47409, l='ServerLevel[world]', x=885.70, y=85.02, z=2334.60] died: Mad_Dog was shot by Sahankiel071727
-[18Sep2025 05:15:23.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/47456, l='ServerLevel[world]', x=884.74, y=85.00, z=2334.39] died: Flash62724  was slain by iDaless
-[18Sep2025 05:15:37.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/45150, l='ServerLevel[world]', x=873.51, y=85.00, z=2360.70] died: Dany_Why died
-[18Sep2025 05:16:53.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/45551, l='ServerLevel[world]', x=872.09, y=85.64, z=2360.70] died: WhisperFire26 died
-[18Sep2025 05:17:08.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/45623, l='ServerLevel[world]', x=864.70, y=85.00, z=2358.51] died: LoneGuy died
-[18Sep2025 05:17:34.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/45686, l='ServerLevel[world]', x=857.45, y=85.00, z=2355.30] died: Belladonna died
-[18Sep2025 05:17:46.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was shot by Sahankiel071727
-[18Sep2025 05:17:46.350] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-05.17.46.dat
-[18Sep2025 05:17:46.350] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 891 Y: 79.0 Z: 2360
-[18Sep2025 05:17:46.350] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is dfbebc89-2b27-4b77-97e4-3c9cf43fd775
-[18Sep2025 05:17:48.291] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 05:17:48.292] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 05:17:50.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 891.500000, 79.500000, 2360.500000]
-[18Sep2025 05:17:57.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/45776, l='ServerLevel[world]', x=870.67, y=85.00, z=2359.97] died: TVGuy died
-[18Sep2025 05:20:17.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Deyvid'/48865, l='ServerLevel[world]', x=872.58, y=85.00, z=2359.55] died: Deyvid suffocated in a wall
-[18Sep2025 05:21:20.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 was eaten alive by Infected Human
-[18Sep2025 05:21:20.700] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Frank3033 with unique ID travelersbackpack.standard_18.09.2025-05.21.20.dat
-[18Sep2025 05:21:20.700] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 890 Y: 86.03117166410509 Z: 2357
-[18Sep2025 05:21:20.701] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is c3ba1f80-2561-417c-a5d6-f41d45c2d7e1
-[18Sep2025 05:21:22.276] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 05:21:22.277] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 05:21:24.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was eaten alive by Lacerator
-[18Sep2025 05:21:24.298] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-05.21.24.dat
-[18Sep2025 05:21:24.299] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 892 Y: 85.0 Z: 2359
-[18Sep2025 05:21:24.299] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is d63d800d-f04d-49af-8bb8-581e466f6ddc
-[18Sep2025 05:21:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 889.500000, 85.500000, 2357.500000]
-[18Sep2025 05:21:25.763] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 05:21:25.763] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 05:21:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 forgot Lacerator was a bioweapon
-[18Sep2025 05:21:25.859] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is a40a2de5-2ead-4e89-b90b-9ec24e2a29e6
-[18Sep2025 05:21:27.472] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 05:21:27.472] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 05:21:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
-[18Sep2025 05:21:30.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
-[18Sep2025 05:21:37.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to 892.500000, 85.500000, 2359.500000]
-[18Sep2025 05:21:42.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported iDaless to Frank3033]
-[18Sep2025 05:21:43.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/47480, l='ServerLevel[world]', x=881.20, y=92.00, z=2329.41] died: Hypnotizd died
-[18Sep2025 05:21:46.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
-[18Sep2025 05:22:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has succumbed to the infection
-[18Sep2025 05:22:10.096] [Server thread/INFO] [gravestone/]: The death ID of player Frank3033 is a42c323b-2f45-4dbd-a368-e7c0c7c107db
-[18Sep2025 05:22:11.473] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
-[18Sep2025 05:22:11.473] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
-[18Sep2025 05:22:13.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 886.500000, 85.500000, 2365.500000]
-[18Sep2025 05:22:14.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/50303, l='ServerLevel[world]', x=891.78, y=85.67, z=2365.70] died: Frank3033 was shot by Sahankiel071727
-[18Sep2025 05:23:12.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Frank3033'/49680, l='ServerLevel[world]', x=888.02, y=85.00, z=2357.14] died: Frank3033 was shot by Sahankiel071727
-[18Sep2025 05:24:06.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/47733, l='ServerLevel[world]', x=891.60, y=85.00, z=2341.44] died: Ike was slain by iDaless
-[18Sep2025 05:24:12.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hank_o'/48502, l='ServerLevel[world]', x=892.61, y=86.54, z=2331.22] died: Hank_o was slain by iDaless
-[18Sep2025 05:24:18.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless forgot Infected Villager was a bioweapon
-[18Sep2025 05:24:18.487] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.skeleton_18.09.2025-05.24.18.dat
-[18Sep2025 05:24:18.487] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 892 Y: 90.42159999847412 Z: 2327
-[18Sep2025 05:24:18.487] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is a0636c2c-8648-44b7-9117-7b9a0f638537
-[18Sep2025 05:24:20.054] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
-[18Sep2025 05:24:20.055] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
-[18Sep2025 05:24:24.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
-[18Sep2025 05:24:36.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was slain by Infected Husk
-[18Sep2025 05:24:36.236] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 340fcc15-9864-430d-9b50-1c6ba02b7aca
-[18Sep2025 05:24:38.262] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 05:24:38.263] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 05:24:39.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/48472, l='ServerLevel[world]', x=889.85, y=85.42, z=2368.70] died: Ike died
-[18Sep2025 05:24:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
-[18Sep2025 05:24:44.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/51322, l='ServerLevel[world]', x=892.69, y=85.00, z=2356.48] died: Sahankiel071727 was shot by iDaless
-[18Sep2025 05:24:53.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/48519, l='ServerLevel[world]', x=891.05, y=86.25, z=2368.30] died: Gistique died
-[18Sep2025 05:25:03.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/51196, l='ServerLevel[world]', x=892.69, y=85.00, z=2341.26] died: Joker_de_Coeur was slain by iDaless
-[18Sep2025 05:25:08.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/48596, l='ServerLevel[world]', x=877.91, y=86.18, z=2368.70] died: ABucketOfFriedChicken died
-[18Sep2025 05:25:30.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/48668, l='ServerLevel[world]', x=879.48, y=96.00, z=2369.49] died: Helldwin died
-[18Sep2025 05:25:43.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/51909, l='ServerLevel[world]', x=876.19, y=91.00, z=2328.69] died: Whisper was burnt to a crisp whilst fighting Frank3033
-[18Sep2025 05:25:56.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/48761, l='ServerLevel[world]', x=875.72, y=85.00, z=2368.33] died: Flash62724  died
-[18Sep2025 05:26:06.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless forgot Joker_de_Coeur was a bioweapon
-[18Sep2025 05:26:06.188] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.skeleton_18.09.2025-05.26.06.dat
-[18Sep2025 05:26:06.188] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 878 Y: 91.49520087700593 Z: 2325
-[18Sep2025 05:26:06.189] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 042208a8-0dc8-4017-9978-012f3ec380ec
-[18Sep2025 05:26:08.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
-[18Sep2025 05:26:08.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
-[18Sep2025 05:26:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
-[18Sep2025 05:26:10.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/52062, l='ServerLevel[world]', x=877.96, y=91.00, z=2330.69] died: Joker_de_Coeur was slain by Sahankiel071727
-[18Sep2025 05:26:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was fungi-fied by ExeedingSky74
-[18Sep2025 05:26:25.439] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 398b6c8f-c4db-4d5c-8db4-29393fbda96a
-[18Sep2025 05:26:27.769] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 05:26:27.769] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
-[18Sep2025 05:26:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to 879.500000, 91.500000, 2334.500000]
-[18Sep2025 05:26:42.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/52226, l='ServerLevel[world]', x=884.10, y=92.00, z=2335.00] died: ExeedingSky74 was shot by Sahankiel071727
-[18Sep2025 05:26:50.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/52231, l='ServerLevel[world]', x=881.13, y=91.00, z=2336.00] died: Sahankiel071727 was slain by iDaless
-[18Sep2025 05:26:51.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/49008, l='ServerLevel[world]', x=878.13, y=85.00, z=2368.61] died: Nova69 died
-[18Sep2025 05:27:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 124.500000, 73.500000, 763.500000]
-[18Sep2025 05:27:32.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
-[18Sep2025 05:27:57.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
-[18Sep2025 05:28:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
-[18Sep2025 05:29:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
-[18Sep2025 05:29:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
-[18Sep2025 05:34:16.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
-[18Sep2025 05:34:35.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to -67.500000, 109.739662, -2.500000]
-[18Sep2025 05:35:06.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
-[18Sep2025 05:35:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
-[18Sep2025 05:36:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
-[18Sep2025 05:36:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
-[18Sep2025 05:36:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
-[18Sep2025 05:41:24.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
-[18Sep2025 05:42:14.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved wrongly!
-[18Sep2025 05:43:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Local Ice Age]
-[18Sep2025 05:43:30.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported iDaless to Frank3033]
-[18Sep2025 05:45:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was slain by Umarmer
-[18Sep2025 05:45:11.011] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-05.45.11.dat
-[18Sep2025 05:45:11.011] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 111 Y: 78.2 Z: 915
-[18Sep2025 05:45:11.011] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 5c3c34d3-8207-4850-a633-6138cd66e2f5
-[18Sep2025 05:45:12.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
-[18Sep2025 05:45:12.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 05:52:53.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDaless[/127.66.7.97:42165] logged in with entity id 1131 at (116.44875942815892, 106.0, 966.1350437773073)
+[18Sep2025 05:52:53.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless joined the game
+[18Sep2025 05:52:53.831] [Server thread/INFO] [Jade/]: Syncing config to iDaless (151440db-f066-3ec3-aa0e-6bb692afb601)
+[18Sep2025 05:52:53.989] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 151440db-f066-3ec3-aa0e-6bb692afb601 was loaded
+[18Sep2025 05:52:53.989] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[18Sep2025 05:52:53.990] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[18Sep2025 05:53:27.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 05:53:39.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: AdaptableProjectile['Spit'/1850, l='ServerLevel[world]', x=498.60, y=266.82, z=1360.48]
+[18Sep2025 05:53:40.414] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: AdaptableProjectile['Spit'/1876, l='ServerLevel[world]', x=520.70, y=264.35, z=1360.53]
+[18Sep2025 05:53:40.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 05:54:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Frank3033 to iDaless]
+[18Sep2025 06:00:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[18Sep2025 06:01:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 06:03:30.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless was slain by Usurper
+[18Sep2025 06:03:30.258] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.skeleton_18.09.2025-06.03.30.dat
+[18Sep2025 06:03:30.259] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 103 Y: 76.7511640079424 Z: 893
+[18Sep2025 06:03:30.260] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 422a7283-cef6-4da6-b9ea-051d879e6f6e
+[18Sep2025 06:03:33.760] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[18Sep2025 06:03:33.761] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[18Sep2025 06:03:37.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 06:03:41.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 06:03:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has succumbed to the infection
+[18Sep2025 06:03:44.751] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-06.03.44.dat
+[18Sep2025 06:03:44.751] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 107 Y: 106.0 Z: 947
+[18Sep2025 06:03:44.752] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 7cbc36b4-f205-4c44-997d-f3d9bac81664
+[18Sep2025 06:03:46.517] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 06:03:46.519] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 06:03:56.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 06:04:06.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/9011, l='ServerLevel[world]', x=109.36, y=106.00, z=960.43] died: Sahankiel071727 was slain by Sahankiel071727
+[18Sep2025 06:04:33.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 06:06:51.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDaless has succumbed to the infection
+[18Sep2025 06:06:51.651] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDaless with unique ID travelersbackpack.skeleton_18.09.2025-06.06.51.dat
+[18Sep2025 06:06:51.651] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 87 Y: 70.0 Z: 953
+[18Sep2025 06:06:51.651] [Server thread/INFO] [gravestone/]: The death ID of player iDaless is 5270f2b6-1e81-456c-85e5-f8ef5b01b9ee
+[18Sep2025 06:06:53.501] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [iDaless]
+[18Sep2025 06:06:53.501] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
+[18Sep2025 06:06:55.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Creative Mode]
+[18Sep2025 06:06:56.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 06:07:02.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 06:07:11.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set own game mode to Survival Mode]
+[18Sep2025 06:07:12.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['iDaless'/10883, l='ServerLevel[world]', x=93.39, y=70.00, z=948.61] died: iDaless was shot by Sahankiel071727
+[18Sep2025 06:07:22.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[18Sep2025 06:07:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 06:07:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Creative Mode]
+[18Sep2025 06:07:58.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[18Sep2025 06:09:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 06:11:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
