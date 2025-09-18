@@ -19492,3 +19492,31 @@ java.lang.IllegalStateException: not found
 [18Sep2025 05:26:08.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [iDaless]
 [18Sep2025 05:26:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
 [18Sep2025 05:26:10.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/52062, l='ServerLevel[world]', x=877.96, y=91.00, z=2330.69] died: Joker_de_Coeur was slain by Sahankiel071727
+[18Sep2025 05:26:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was fungi-fied by ExeedingSky74
+[18Sep2025 05:26:25.439] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 398b6c8f-c4db-4d5c-8db4-29393fbda96a
+[18Sep2025 05:26:27.769] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758173187756
+[18Sep2025 05:26:27.769] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 05:26:27.769] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 05:26:30.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 05:26:30.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 05:26:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to 879.500000, 91.500000, 2334.500000]
+[18Sep2025 05:26:42.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/52226, l='ServerLevel[world]', x=884.10, y=92.00, z=2335.00] died: ExeedingSky74 was shot by Sahankiel071727
+[18Sep2025 05:26:50.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sahankiel071727'/52231, l='ServerLevel[world]', x=881.13, y=91.00, z=2336.00] died: Sahankiel071727 was slain by iDaless
+[18Sep2025 05:26:51.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/49008, l='ServerLevel[world]', x=878.13, y=85.00, z=2368.61] died: Nova69 died
+[18Sep2025 05:27:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to 124.500000, 73.500000, 763.500000]
+[18Sep2025 05:27:32.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 05:27:57.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
+[18Sep2025 05:28:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
+[18Sep2025 05:29:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 05:29:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to Sahankiel071727]
+[18Sep2025 05:31:30.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 05:31:30.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 05:34:16.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[18Sep2025 05:34:35.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to -67.500000, 109.739662, -2.500000]
+[18Sep2025 05:35:06.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
+[18Sep2025 05:35:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 05:36:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[18Sep2025 05:36:30.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 05:36:30.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 05:36:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
+[18Sep2025 05:36:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
