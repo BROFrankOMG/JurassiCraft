@@ -11156,3 +11156,8 @@ java.lang.IllegalStateException: not found
 [18Sep2025 22:41:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Summoned new Cat]
 [18Sep2025 22:42:58.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Sep2025 22:42:58.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 22:47:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 22:47:58.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 22:47:58.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 22:52:58.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 22:52:58.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
