@@ -4157,6 +4157,12 @@
     },
     "done": true
   },
+  "spore:freezing_protocole": {
+    "criteria": {
+      "pick_up_cdu": "2025-09-18 05:43:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-09-18 05:25:30 +0000"
@@ -4205,6 +4211,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_tape_glass": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-18 05:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-09-18 05:25:30 +0000"
@@ -4226,6 +4238,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-09-18 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/cassette_tape": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-18 05:39:20 +0000"
     },
     "done": true
   },
@@ -4286,6 +4304,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-18 05:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-18 05:39:20 +0000"
     },
     "done": true
   },
@@ -4388,6 +4412,12 @@
   "spore:scanning_world": {
     "criteria": {
       "pick_up_scanner": "2025-09-18 04:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-09-18 05:39:30 +0000"
     },
     "done": true
   },

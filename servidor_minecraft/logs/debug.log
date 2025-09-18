@@ -19520,3 +19520,18 @@ java.lang.IllegalStateException: not found
 [18Sep2025 05:36:30.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Sep2025 05:36:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
 [18Sep2025 05:36:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 05:41:24.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
+[18Sep2025 05:41:30.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 05:41:30.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 05:42:14.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 moved wrongly!
+[18Sep2025 05:43:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 has made the advancement [Local Ice Age]
+[18Sep2025 05:43:30.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported iDaless to Frank3033]
+[18Sep2025 05:45:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 was slain by Umarmer
+[18Sep2025 05:45:11.011] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sahankiel071727 with unique ID travelersbackpack.standard_18.09.2025-05.45.11.dat
+[18Sep2025 05:45:11.011] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 111 Y: 78.2 Z: 915
+[18Sep2025 05:45:11.011] [Server thread/INFO] [gravestone/]: The death ID of player Sahankiel071727 is 5c3c34d3-8207-4850-a633-6138cd66e2f5
+[18Sep2025 05:45:12.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sahankiel071727]
+[18Sep2025 05:45:12.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sahankiel071727]
+[18Sep2025 05:45:12.408] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758174312407
+[18Sep2025 05:46:30.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 05:46:30.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
