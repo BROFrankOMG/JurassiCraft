@@ -5165,6 +5165,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-09-18 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-18 20:59:33 +0000"
+    },
+    "done": true
+  },
   "spore:specter": {
     "criteria": {
       "hurt_infected": "2025-09-18 20:19:31 +0000"

@@ -999,3 +999,37 @@ java.lang.IllegalStateException: not found
 [18Sep2025 20:43:45.284] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
 [18Sep2025 20:43:45.284] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
 [18Sep2025 20:43:45.284] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 20:46:51.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[18Sep2025 20:49:00.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Timed out
+[18Sep2025 20:49:00.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
+[18Sep2025 20:49:00.532] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
+[18Sep2025 20:51:20.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/163602, l='ServerLevel[world]', x=86.60, y=106.00, z=1000.49] died, message: 'Librarian was slain by iDaless'
+[18Sep2025 20:55:50.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:38193] logged in with entity id 259941 at (94.12045444598706, 72.62851121697412, 901.4118136653311)
+[18Sep2025 20:55:50.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[18Sep2025 20:55:51.020] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[18Sep2025 20:55:52.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[18Sep2025 20:55:52.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 20:55:52.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 20:56:41.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 20:57:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Set the time to 1000]
+[18Sep2025 21:04:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Teleported iDaless to Frank3033]
+[18Sep2025 21:05:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Spectator Mode]
+[18Sep2025 21:06:37.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank3033 lost connection: Disconnected
+[18Sep2025 21:06:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 left the game
+[18Sep2025 21:06:37.886] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was unloaded
+[18Sep2025 21:07:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brussedefrank has succumbed to the infection
+[18Sep2025 21:07:42.814] [Server thread/INFO] [gravestone/]: The death ID of player brussedefrank is bf875ced-943f-4939-840d-766c602a0ba4
+[18Sep2025 21:07:45.231] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [brussedefrank]
+[18Sep2025 21:07:45.231] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [brussedefrank]
+[18Sep2025 21:08:01.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['brussedefrank'/267323, l='ServerLevel[world]', x=123.59, y=106.00, z=961.34] died: brussedefrank was shot by brussedefrank
+[18Sep2025 21:11:35.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank3033[/127.63.248.189:55277] logged in with entity id 269925 at (102.00698157299689, 70.11904424978171, 884.4081774921607)
+[18Sep2025 21:11:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank3033 joined the game
+[18Sep2025 21:11:35.620] [Server thread/INFO] [Jade/]: Syncing config to Frank3033 (cb7d0a21-a420-3229-b4ec-d66932681a27)
+[18Sep2025 21:11:36.404] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cb7d0a21-a420-3229-b4ec-d66932681a27 was loaded
+[18Sep2025 21:11:36.404] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
+[18Sep2025 21:11:36.404] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
+[18Sep2025 21:11:56.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 21:12:02.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to iDaless]
+[18Sep2025 21:12:19.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Teleported Frank3033 to brussedefrank]
+[18Sep2025 21:13:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set the time to 1000]
+[18Sep2025 21:14:10.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iDaless: Removed every effect from 806 targets]
