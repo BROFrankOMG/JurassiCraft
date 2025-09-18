@@ -5087,39 +5087,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-18 18:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-09-18 18:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-09-18 18:45:35 +0000"
     },
     "done": true
   },
-  "spore:freezing_protocole": {
-    "criteria": {
-      "pick_up_cdu": "2025-09-18 19:23:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/diamond_smithing": {
-    "criteria": {
-      "has_diamond": "2025-09-18 18:55:57 +0000"
-    },
-    "done": true
-  },
-  "spore:howitzer": {
-    "criteria": {
-      "hurt_by_infected": "2025-09-18 19:29:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-09-18 18:45:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-09-18 18:38:28 +0000"
     },
     "done": true
   },
@@ -5135,15 +5123,9 @@
     },
     "done": true
   },
-  "spore:inf_construct": {
+  "travelersbackpack:recipes/misc/diamond_smithing": {
     "criteria": {
-      "hurt_infected": "2025-09-18 19:08:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-09-18 18:43:36 +0000"
+      "has_diamond": "2025-09-18 18:55:57 +0000"
     },
     "done": true
   },
@@ -5153,9 +5135,39 @@
     },
     "done": true
   },
+  "spore:inf_construct": {
+    "criteria": {
+      "hurt_infected": "2025-09-18 19:08:07 +0000"
+    },
+    "done": true
+  },
+  "spore:freezing_protocole": {
+    "criteria": {
+      "pick_up_cdu": "2025-09-18 19:23:42 +0000"
+    },
+    "done": true
+  },
+  "spore:howitzer": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-18 19:29:03 +0000"
+    },
+    "done": true
+  },
   "spore:proto": {
     "criteria": {
       "hurt_infected": "2025-09-18 19:30:43 +0000"
+    },
+    "done": true
+  },
+  "spore:hohlfresser": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-18 19:37:44 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_infected": "2025-09-18 20:19:31 +0000"
     },
     "done": true
   },
