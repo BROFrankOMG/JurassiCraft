@@ -4472,5 +4472,17 @@
     },
     "done": true
   },
+  "spore:scavenger": {
+    "criteria": {
+      "hurt_infected": "2025-09-18 06:20:29 +0000"
+    },
+    "done": true
+  },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_by_infected": "2025-09-18 06:17:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
