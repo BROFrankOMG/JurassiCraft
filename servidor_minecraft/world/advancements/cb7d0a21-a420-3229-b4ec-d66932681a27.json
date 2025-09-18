@@ -5232,15 +5232,51 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+  "spore:inquisitor": {
     "criteria": {
-      "has_barrel": "2025-09-18 22:18:03 +0000"
+      "hurt_infected": "2025-09-18 21:49:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-09-18 21:49:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-09-18 21:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-18 21:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-18 21:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-09-18 21:50:21 +0000"
+    },
+    "done": true
+  },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_infected": "2025-09-18 21:59:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-09-18 22:18:03 +0000"
     },
     "done": true
   },
@@ -5274,21 +5310,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-09-18 21:49:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/white_postbox": {
     "criteria": {
       "has_barrel": "2025-09-18 22:18:03 +0000"
-    },
-    "done": true
-  },
-  "spore:inquisitor": {
-    "criteria": {
-      "hurt_infected": "2025-09-18 21:49:05 +0000"
     },
     "done": true
   },
@@ -5304,12 +5328,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-09-18 21:49:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
     "criteria": {
       "has_barrel": "2025-09-18 22:18:03 +0000"
@@ -5322,12 +5340,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-09-18 21:50:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
     "criteria": {
       "has_barrel": "2025-09-18 22:18:03 +0000"
@@ -5337,12 +5349,6 @@
   "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
     "criteria": {
       "has_barrel": "2025-09-18 22:18:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-09-18 21:49:20 +0000"
     },
     "done": true
   },
@@ -5367,12 +5373,6 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
     "criteria": {
       "has_barrel": "2025-09-18 22:18:03 +0000"
-    },
-    "done": true
-  },
-  "spore:leaper": {
-    "criteria": {
-      "hurt_infected": "2025-09-18 21:59:36 +0000"
     },
     "done": true
   },

@@ -1231,3 +1231,9 @@ java.lang.IllegalStateException: not found
 [18Sep2025 23:23:50.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Frank3033]
 [18Sep2025 23:23:50.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Frank3033]
 [18Sep2025 23:25:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set the time to 1000]
+[18Sep2025 23:26:36.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 23:26:44.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 23:28:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Creative Mode]
+[18Sep2025 23:28:23.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[18Sep2025 23:30:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Teleported Sahankiel071727 to Frank3033]
+[18Sep2025 23:30:30.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/353794, l='ServerLevel[world]', x=153.35, y=-7.00, z=923.41] died: TVGuy was slain by Enderman
