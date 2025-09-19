@@ -11907,3 +11907,33 @@ java.lang.IllegalStateException: not found
 [19Sep2025 00:44:35.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
 [19Sep2025 00:45:53.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Iron Golem]
 [19Sep2025 00:46:02.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:47:46.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Applied effect Hero of the Village to Frank3033]
+[19Sep2025 00:47:58.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:47:58.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:48:02.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/394187, l='ServerLevel[world]', x=66.31, y=71.00, z=960.30] died, message: 'Unemployed was fungi-fied by Infected Pillager'
+[19Sep2025 00:48:40.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> filo 5 :vvvvvvv
+[19Sep2025 00:48:45.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/395330, l='ServerLevel[world]', x=63.90, y=59.00, z=997.02] died, message: 'Librarian was eaten alive by Infected Villager'
+[19Sep2025 00:50:44.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/398204, l='ServerLevel[world]', x=73.52, y=77.00, z=943.32] died, message: 'Unemployed was slain by Usurper'
+[19Sep2025 00:51:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:52:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:52:55.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:52:58.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:52:58.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:53:00.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/400076, l='ServerLevel[world]', x=88.59, y=106.00, z=998.54] died, message: 'Unemployed was slain by Frank3033'
+[19Sep2025 00:53:08.664] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/400065, l='ServerLevel[world]', x=86.30, y=106.00, z=998.43] died, message: 'Librarian was slain by Frank3033'
+[19Sep2025 00:53:10.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:53:12.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/400153, l='ServerLevel[world]', x=88.50, y=106.00, z=1003.47] died, message: 'Unemployed was slain by Frank3033'
+[19Sep2025 00:53:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:55:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Set own game mode to Survival Mode]
+[19Sep2025 00:57:19.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/400013, l='ServerLevel[world]', x=70.51, y=68.75, z=982.30] died, message: 'Unemployed has succumbed to the infection'
+[19Sep2025 00:57:58.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:57:58.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 01:02:32.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Removed every effect from 3 targets]
+[19Sep2025 01:02:58.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 01:02:58.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 01:04:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Removed every effect from 3 targets]
+[19Sep2025 01:07:58.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 01:07:58.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 01:09:19.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Removed every effect from 673 targets]
+[19Sep2025 01:12:58.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 01:12:58.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
