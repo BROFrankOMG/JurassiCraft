@@ -5464,6 +5464,12 @@
     },
     "done": true
   },
+  "spore:wendigo": {
+    "criteria": {
+      "hurt_infected": "2025-09-19 00:38:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-09-18 23:08:11 +0000"

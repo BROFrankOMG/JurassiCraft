@@ -11881,3 +11881,29 @@ java.lang.IllegalStateException: not found
 [19Sep2025 00:22:58.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Sep2025 00:26:58.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/384229, l='ServerLevel[world]', x=86.70, y=106.00, z=994.50] died, message: 'Unemployed was slain by Frank3033'
 [19Sep2025 00:27:00.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:27:38.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:27:58.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:27:58.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:29:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Summoned new Unemployed]
+[19Sep2025 00:32:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Summoned new Unemployed]
+[19Sep2025 00:32:58.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:32:58.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:35:17.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/387265, l='ServerLevel[world]', x=86.70, y=106.00, z=998.50] died, message: 'Librarian was slain by Frank3033'
+[19Sep2025 00:35:21.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:36:07.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/389564, l='ServerLevel[world]', x=86.70, y=106.00, z=998.53] died, message: 'Unemployed was slain by Frank3033'
+[19Sep2025 00:36:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
+[19Sep2025 00:37:58.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:37:58.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:38:04.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank3033> filo 5 :vvvv
+[19Sep2025 00:38:32.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Iron Golem]
+[19Sep2025 00:38:32.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Iron Golem]
+[19Sep2025 00:38:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Iron Golem]
+[19Sep2025 00:38:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sahankiel071727 has made the advancement [Go Back to Canada]
+[19Sep2025 00:39:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Summoned new Iron Golem]
+[19Sep2025 00:41:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Removed every effect from 594 targets]
+[19Sep2025 00:42:58.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:42:58.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:43:54.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Summoned new Unemployed]
+[19Sep2025 00:44:35.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sahankiel071727: Set own game mode to Survival Mode]
+[19Sep2025 00:45:53.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Iron Golem]
+[19Sep2025 00:46:02.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frank3033: Summoned new Unemployed]
