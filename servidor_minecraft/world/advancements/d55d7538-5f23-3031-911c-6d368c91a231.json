@@ -5392,6 +5392,12 @@
     },
     "done": true
   },
+  "spore:ogre": {
+    "criteria": {
+      "hurt_infected": "2025-09-19 00:00:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-09-18 23:08:11 +0000"
